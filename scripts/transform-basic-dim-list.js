@@ -1,4 +1,5 @@
 // transforms a basic dim list into a little light wishlist
+// https://wishlists.littlelight.club/#/
 //
 // for some script basics and file system references
 // https://devdojo.com/bo-iliev/how-to-write-your-first-nodejs-script

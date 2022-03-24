@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
     "npm": "^8.5.5"
   },
   "name": "wishlists",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
