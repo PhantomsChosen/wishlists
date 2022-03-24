@@ -2,11 +2,7 @@ title:Basic PvE Weapons 2022.03.24
 description:Made by Hama, assisted by Ranthalos and Meteor w/ technical stuff
 
 // Arctic Haze - Arctic Haze (pve,mnk)
-//notes: If you're a fan of 720 rpm Auto's then the only Solar one currently available in Risen is the Arctic Haze from Europa.
-Arrowhead Brake is my go to roll for most Auto Rifles, but Fluted, Hammerforged and Smallbore are also fine options.
-Accurized would be my go to as you're already getting a good amount of Reload from Outlaw or Ammo back from Subsistence, but Flared Magwell is not a bad option either.
-While it lacks versatile rolls it can still get Subsistence or Outlaw paired with Vorpal Weapon.
-Recommended MW: Range tags:pve,mnk
+//notes: If you're a fan of 720 rpm Auto's then the only Solar one currently available in Risen is the Arctic Haze from Europa. Arrowhead Brake is my go to roll for most Auto Rifles, but Fluted, Hammerforged and Smallbore are also fine options. Accurized would be my go to as you're already getting a good amount of Reload from Outlaw or Ammo back from Subsistence, but Flared Magwell is not a bad option either. While it lacks versatile rolls it can still get Subsistence or Outlaw paired with Vorpal Weapon. Recommended MW: Range tags:pve,mnk
 dimwishlist:item=20935540&perks=839105230,3142289711,1168162263,1546637391
 dimwishlist:item=20935540&perks=839105230,3142289711,1820235745,1546637391
 dimwishlist:item=20935540&perks=839105230,3230963543,1168162263,1546637391
@@ -50,14 +46,12 @@ dimwishlist:item=20935540&perks=4090651448,1087426260,1820235745,1546637391
 
 
 // Whispering Slab - Whispering Slab (pve,mnk)
-//notes: A lot of people (including me), are not fans of the Lightweight Bow archetype, but at least this one can roll Vorpal so there's that.
-Recommended MW: Draw Time tags:pve,mnk
+//notes: A lot of people (including me), are not fans of the Lightweight Bow archetype, but at least this one can roll Vorpal so there's that. Recommended MW: Draw Time tags:pve,mnk
 dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391
 
 
 // Under Your Skin - Under Your Skin (god-pve,pve,mnk)
-//notes: Best legendary Void bow as of Risen, 4th column can roll some interesting stuff like Dragonfly and Successful Warm-up, but I prefer to stick to the old reliable Archer's Tempo + Explosive Head combination. Also this is a craftable weapon so that's a +.
-Recommended MW: Draw Time. tags:god-pve,pve,mnk
+//notes: Best legendary Void bow as of Risen, 4th column can roll some interesting stuff like Dragonfly and Successful Warm-up, but I prefer to stick to the old reliable Archer's Tempo + Explosive Head combination. Also this is a craftable weapon so that's a +. Recommended MW: Draw Time. tags:god-pve,pve,mnk
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,1551736345
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,2652708987
@@ -539,7 +533,8 @@ dimwishlist:item=614426548&perks=2827049491,599007201,1749209109,3913600130
 
 
 // Found Verdict (Timelost) - Found Verdict (Timelost) (god-pvp,pvp,mnk)
-//notes: Special Mention: Amazing PvP roll. tags:god-pvp,pvp,mnk
+//notes: return test - Special Mention: Amazing PvP roll. 
+tags:god-pvp,pvp,mnk
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
 
