@@ -5,7 +5,7 @@
 // https://devdojo.com/bo-iliev/how-to-write-your-first-nodejs-script
 const fs = require('fs');
 const nameMap = require("../maps/name-map.json");
-const wishlist = require("../data/Basic_PvE_Weapons_rolls_to_look_for.json");
+const wishlist = require("../data/Basic_PvE_Weapons_2022.03.23.json");
 
 const noNameList = [];
 
@@ -22,7 +22,6 @@ function addName(roll) {
     console.log(`No name found for hash: ${hash}`);
   }
 }
-
 
 function addNamesToRolls() {
   // just assigns name to the existing json data
