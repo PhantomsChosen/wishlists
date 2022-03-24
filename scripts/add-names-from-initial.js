@@ -5,7 +5,7 @@
 // https://devdojo.com/bo-iliev/how-to-write-your-first-nodejs-script
 const fs = require('fs');
 const nameMap = require("../maps/name-map.json");
-const wishlist = require("../data/Basic_PvE_Weapons_2022.03.23.json");
+const wishlist = require("../data/Basic_PvE_Weapons_2022.03.24.json");
 
 const noNameList = [];
 

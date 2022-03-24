@@ -1,6 +1,6 @@
 {
   "description": "Made by Hama, assisted by Ranthalos and Meteor w/ technical stuff",
-  "name": "Basic PvE Weapons rolls to look for",
+  "name": "Basic PvE Weapons 2022.03.24",
   "data": [
     {
       "description": "I've never really liked the feel of 150 rpm Scout Rifles until this one came along and a good amount of people I've talked to seem to share this sentiment.\nArrowhead Brake will turn your 74 base recoil into 100, which is pretty good value if you happen to get that. Fluted is a good second option though.\nWith the high base Range of this gun (like 90m), accurized doesn't really offer much so I'd prefer Flared Magwell and possibly Tactical Mag as a second choice.\nRapid Hit to me is one of the (if not the) best perk to have on a Scout Rifle as it gives you so much in terms of Reload Speed and Stability.\nExplosive Payload is a generally good damage perk option on a Scout, but since this is a Stasis one it can also roll Headstone if you're into that.\nRecommended MW: Handling ",
@@ -8,11 +8,17 @@
       "name": "Perses-D",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392,
+          1087426260
         ],
         [
           247725512
@@ -65,11 +71,17 @@
       "name": "Servant Leader",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392,
+          1087426260
         ],
         [
           247725512
@@ -88,11 +100,17 @@
       "name": "Servant Leader",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392,
+          1087426260
         ],
         [
           247725512
@@ -109,11 +127,17 @@
       "name": "Servant Leader",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3230963543,
-          3142289711
+          3142289711,
+          106909392,
+          1087426260
         ],
         [
           3436462433
@@ -133,10 +157,17 @@
       "name": "Servant Leader",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          3230963543
+          3230963543,
+          106909392,
+          1087426260,
+          3142289711
         ],
         [
           3700496672
@@ -157,11 +188,13 @@
           839105230,
           3250034553,
           1482024992,
-          1840239774
+          1840239774,
+          4090651448
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720,
@@ -185,11 +218,13 @@
           839105230,
           3250034553,
           1482024992,
-          1840239774
+          1840239774,
+          4090651448
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720,
@@ -211,11 +246,13 @@
           839105230,
           3250034553,
           1482024992,
-          1840239774
+          1840239774,
+          4090651448
         ],
         [
           3230963543,
-          3142289711
+          3142289711,
+          106909392
         ],
         [
           972757866,
@@ -238,11 +275,16 @@
       "name": "Trustee",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1168162263,
@@ -374,12 +416,15 @@
       "plugs": [
         [
           1482024992,
-          1840239774
+          1840239774,
+          3250034553,
+          4090651448
         ],
         [
           1561002382,
           3230963543,
-          679225683
+          679225683,
+          1885400500
         ],
         [
           1428297954,
@@ -441,24 +486,34 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "Iron Banner Sword with potential DPS Edition.\n\nJagged Edge is normally your go to for Swords, Honed Edge is a fine second choice though and you'll usually have one of these.\nSwordmaster's Guard is your best option, but as long as you're avoiding Heavy Guard you're fine.\nRelentless Strikes is very good for when you're consistently hitting targets, while Tireless Blade is good for when you're just killing ads.\nRelentless is your DPS go to option though.\nFrenzy is an interesting option on Swords now that Vorpal has been nerfed to be 10% on Power weapons and is definitely worth considering as Frenzy will be procced in many situations where you're using a Sword for DPS.\nRecommended MW: Impact.",
       "hash": 1796949035,
       "name": "Razors Edge",
       "plugs": [
         [
-          3666208348
+          3666208348,
+          2827049491
         ],
         [
-          269888150
+          269888150,
+          52780822,
+          599007201
         ],
         [
           1749209109
         ],
         [
           4104185692
+        ],
+        [
+          3989629871
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -467,12 +522,17 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
           1968497646,
-          679225683
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           1570042021
@@ -492,12 +552,17 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
           1968497646,
-          679225683
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           3643424744
@@ -510,35 +575,44 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "For Blinding Grenades you're usually fine with any barrel as long as it's not a negative to your stats, but having additional Handling and Velocity is always nice, which makes Quick Launch or Smart Drift Control nice to have.\nAuto-Loading synergize very well with what you're using Blinding Grenades for, but if you don't happen to have it then Field Prep is an okay substitute, though you'll have to manually reload.\nDemolitionist is a nice supplement in case you need an on demand extra Blinding Grenade or just happen to pick up random kills along the way to charge up your grenades. Disruption Break is nice to have for Match Game content as it allows you to break Void Shields and get a damage boost with your kinetic weapons afterwards while Auto-Loading is reloading your GL.",
       "hash": 1946491241,
       "name": "Truthteller",
       "plugs": [
         [
           3525010810,
-          1441682018,
-          981914802
+          3798852852,
+          3809316345,
+          1441682018
         ],
         [
           3032599245
         ],
         [
-          3300816228
+          3300816228,
+          2869569095
         ],
         [
-          3523296417
+          3523296417,
+          1683379515
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.\nHard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.\nFeeding Frenzy rewards chaining kills and Multikill Clip is a nice synergy here as it allows you to chain kills easier. Demolitionist is also nice if you're more inclined to use your grenades.\nRecommended MW: Velocity",
       "hash": 1946491241,
       "name": "Truthteller",
       "plugs": [
         [
+          981914802,
           3525010810,
-          981914802
+          3798852852,
+          3809316345
         ],
         [
           3301904089
@@ -551,16 +625,22 @@
           3523296417
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.\nHard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.\nAuto-Loading is nice to have, but doesn't really synergize well with any other perk than Demolitionist and maybe Disruption Break here, but I see  Disruption Break as more of a Blinding options than when you're using Spike.\nRecommended MW: Velocity.",
       "hash": 1946491241,
       "name": "Truthteller",
       "plugs": [
         [
+          981914802,
           3525010810,
-          981914802
+          3798852852,
+          3809316345
         ],
         [
           3301904089
@@ -569,11 +649,13 @@
           3300816228
         ],
         [
-          2458213969,
           3523296417
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -582,11 +664,16 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1687452232,
-          2680121939
+          2680121939,
+          3868766766,
+          689005463
         ],
         [
           1428297954,
@@ -612,11 +699,16 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1687452232,
-          2680121939
+          2680121939,
+          689005463,
+          3868766766
         ],
         [
           2621346526,
@@ -639,10 +731,16 @@
       "name": "Stars In Shadow",
       "plugs": [
         [
-          1482024992
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          3142289711
+          3142289711,
+          3230963543,
+          106909392
         ],
         [
           1168162263
@@ -661,10 +759,16 @@
       "name": "Stars In Shadow",
       "plugs": [
         [
-          1482024992
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          3142289711
+          3142289711,
+          3230963543,
+          106909392
         ],
         [
           2779035018
@@ -683,10 +787,16 @@
       "name": "Stars In Shadow",
       "plugs": [
         [
-          1482024992
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          3142289711
+          3142289711,
+          3230963543,
+          106909392
         ],
         [
           3436462433
@@ -700,72 +810,6 @@
       "tags": []
     },
     {
-      "description": "",
-      "hash": 2050789284,
-      "name": "Stars In Shadow",
-      "plugs": [
-        [
-          1482024992
-        ],
-        [
-          3230963543
-        ],
-        [
-          1168162263
-        ],
-        [
-          1015611457,
-          1546637391,
-          3523296417
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 2050789284,
-      "name": "Stars In Shadow",
-      "plugs": [
-        [
-          1482024992
-        ],
-        [
-          3230963543
-        ],
-        [
-          2779035018
-        ],
-        [
-          1015611457,
-          1546637391,
-          3523296417
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 2050789284,
-      "name": "Stars In Shadow",
-      "plugs": [
-        [
-          1482024992
-        ],
-        [
-          3230963543
-        ],
-        [
-          3436462433
-        ],
-        [
-          1015611457,
-          1546637391,
-          3523296417
-        ]
-      ],
-      "tags": []
-    },
-    {
       "description": "If you're a fan of 720 rpm Auto's then the only Solar one currently available in Risen is the Arctic Haze from Europa.\nArrowhead Brake is my go to roll for most Auto Rifles, but Fluted, Hammerforged and Smallbore are also fine options.\nAccurized would be my go to as you're already getting a good amount of Reload from Outlaw or Ammo back from Subsistence, but Flared Magwell is not a bad option either.\nWhile it lacks versatile rolls it can still get Subsistence or Outlaw paired with Vorpal Weapon.\nRecommended MW: Range",
       "hash": 20935540,
       "name": "Arctic Haze",
@@ -774,11 +818,14 @@
           839105230,
           1840239774,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392,
+          1087426260
         ],
         [
           1168162263,
@@ -1024,7 +1071,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
@@ -1051,11 +1101,15 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1482024992,
+          4090651448,
+          3250034553,
+          1840239774
         ],
         [
           3230963543,
-          3142289711
+          3142289711,
+          106909392
         ],
         [
           1820235745
@@ -1076,11 +1130,15 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1482024992,
+          4090651448,
+          3250034553,
+          1840239774
         ],
         [
           3230963543,
-          3142289711
+          3142289711,
+          106909392
         ],
         [
           2779035018
@@ -1101,11 +1159,15 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1482024992,
+          4090651448,
+          3250034553,
+          1840239774
         ],
         [
           3230963543,
-          3142289711
+          3142289711,
+          106909392
         ],
         [
           3436462433
@@ -1126,7 +1188,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
@@ -1151,7 +1216,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
@@ -1176,7 +1244,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
@@ -1348,44 +1419,34 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "Succession is a really solid PvE Sniper from DSC.\n\nArrowhead Brake is your go barrel, but Fluted is also a solid choice.\nHere you kinda want Extended Mag so you can reach 5 in the mag when using Backup Mag, otherwise you want Tactical Mag to ensure that you have at least 4 in the mag.\nReconstruction is amazing as it doubles your mag over time, which ends up being very efficient on a Sniper in both casual content and DPS scenarios.\nVorpal is your best overall option, but Recombination is also not a bad option.\nRecommended MW: Handling",
       "hash": 2990047042,
       "name": "Succession",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          2420895100
+          2420895100,
+          106909392
         ],
         [
           1523832109
         ],
         [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 2990047042,
-      "name": "Succession",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          2420895100
-        ],
-        [
-          1523832109
-        ],
-        [
+          1546637391,
           469285294
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -1416,11 +1477,16 @@
       "plugs": [
         [
           1482024992,
-          3250034553
+          3250034553,
+          4090651448,
+          1840239774
         ],
         [
           1561002382,
-          679225683
+          679225683,
+          3230963543,
+          1885400500,
+          1087426260
         ],
         [
           247725512
@@ -1442,12 +1508,17 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
           1968497646,
-          679225683
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           3436462433,
@@ -1516,33 +1587,16 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           3142289711,
-          3230963543
-        ],
-        [
-          247725512
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 3242168339,
-      "name": "Vouchsafe",
-      "plugs": [
-        [
-          839105230,
-          1840239774
-        ],
-        [
-          3142289711,
-          3230963543
+          3230963543,
+          106909392,
+          1087426260
         ],
         [
           247725512
@@ -1560,11 +1614,43 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392,
+          1087426260
+        ],
+        [
+          247725512
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3242168339,
+      "name": "Vouchsafe",
+      "plugs": [
+        [
+          839105230,
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543,
+          106909392,
+          1087426260
         ],
         [
           3436462433
@@ -1627,7 +1713,7 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "This is a test description\nPlease ignore for now\nPls gib red raid weapons",
       "hash": 3326850591,
       "name": "The Long Walk",
       "plugs": [
@@ -1656,7 +1742,9 @@
       "plugs": [
         [
           1482024992,
-          3250034553
+          3250034553,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
@@ -1667,26 +1755,9 @@
         ],
         [
           11612903
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 3341893443,
-      "name": "Funnelweb",
-      "plugs": [
-        [
-          1482024992
         ],
         [
-          3142289711
-        ],
-        [
-          1428297954
-        ],
-        [
-          4104185692
+          3988215619
         ]
       ],
       "tags": []
@@ -1698,7 +1769,36 @@
       "plugs": [
         [
           1482024992,
-          3250034553
+          3250034553,
+          4090651448,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          4104185692
+        ],
+        [
+          3988215619
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992,
+          3250034553,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
@@ -1709,6 +1809,9 @@
         ],
         [
           11612903
+        ],
+        [
+          3988215619
         ]
       ],
       "tags": []
@@ -1719,49 +1822,13 @@
       "name": "Funnelweb",
       "plugs": [
         [
-          1482024992
+          1482024992,
+          3250034553,
+          4090651448,
+          1840239774
         ],
         [
-          3142289711
-        ],
-        [
-          1820235745
-        ],
-        [
-          4104185692
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 3341893443,
-      "name": "Funnelweb",
-      "plugs": [
-        [
-          1482024992
-        ],
-        [
-          3230963543
-        ],
-        [
-          1428297954
-        ],
-        [
-          4104185692
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 3341893443,
-      "name": "Funnelweb",
-      "plugs": [
-        [
-          1482024992
-        ],
-        [
+          3142289711,
           3230963543
         ],
         [
@@ -1769,6 +1836,9 @@
         ],
         [
           4104185692
+        ],
+        [
+          3988215619
         ]
       ],
       "tags": []
@@ -1795,7 +1865,7 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "A very good and easily obtainable Arc Precision Bow from the Monument in the Tower.\nElastic String, Archer's Tempo and Vorpal are all solid on a Bow, it's a bit unlucky on the Arrow though so maybe one day we'll get a better replacement.",
       "hash": 3434944005,
       "name": "Point of the Stag",
       "plugs": [
@@ -1812,65 +1882,91 @@
           1546637391
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "Solid Void Sniper from the Crucible.\n\nArrowhead Brake is as always a solid option on Sniper Rifles as it bumps up your Recoil Direction while also providing Handling. Fluted Barrel is a solid second option.\nAppended Mag allows you to reach 5 in the Mag with Backup Mag which is the ideal if you're utilizing Triple Tap for max benefit.\nExtended Mag also does this, but at the cost of Reload Speed so it is sub optimal. Tactical Mag allows you to hit 4 in the mag which is fine for normal usage.\nTriple Tap is your best option for DPS scenarios if you have 5 in the mag, for normal usage I'd rather recommend Clown Cartridge or Auto-Loading Holster.\nVorpal is basically the only good and reliable damage option you have on this weapon.",
       "hash": 3473290087,
       "name": "Frozen Orbit",
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
-          1087426260
+          1087426260,
+          2420895100,
+          106909392
         ],
         [
           2284787283,
-          3400784728
+          3400784728,
+          3300816228
         ],
         [
           1546637391
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "The only Aggressive Fusion Rifle we have right now and Coriolis Force is very solid for DPS situations.\n\nArrowhead Brake and Fluted would be my go to Barrels, with Enhanced Battery and Liquid Coils being my Batteries of choice.\nUnder Pressure and Pulse Monitor are both very good for DPS situations and Rangefinder helps you get some extra Range so you avoid hitting Damage drop-off as easily.\nRecommended MW: Handling or Stability.",
       "hash": 3512349612,
       "name": "Coriolis Force",
       "plugs": [
         [
+          839105230,
           1840239774,
-          839105230
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1687452232,
           2680121939
         ],
         [
-          1645158859,
-          972757866
+          972757866,
+          1645158859
         ],
         [
           2846385770
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "Solid DPS Slug Shotgun.\n\nArrowhead Brake or Fluted is the go to barrels here, but for DPS it's mostly the last 2 perks you're looking for.\nAssault Mag is a marginal DPS increase, but other mag options are just as fine.\nAuto-Loading and Vorpal is the main perks you want here for DPS situations where Slugs shine.\nThis Shotgun can also be used in non DPS situations of course, but this is the primary use case of it.\nRecommended MW: Handling or Range.",
       "hash": 3616586446,
       "name": "First In, Last Out",
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          3142289711,
-          791862061
+          791862061,
+          106909392,
+          1087426260,
+          3142289711
         ],
         [
           3300816228
@@ -1879,7 +1975,11 @@
           1546637391
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -1887,11 +1987,17 @@
       "name": "The Messenger",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
-          679225683
+          679225683,
+          1885400500,
+          3230963543
         ],
         [
           1168162263
@@ -1908,11 +2014,17 @@
       "name": "The Messenger",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
-          679225683
+          679225683,
+          1885400500,
+          3230963543
         ],
         [
           247725512
@@ -1930,11 +2042,14 @@
       "plugs": [
         [
           1482024992,
-          1840239774
+          1840239774,
+          3250034553,
+          4090651448
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1428297954
@@ -1954,11 +2069,14 @@
       "plugs": [
         [
           1482024992,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           2450788523
@@ -1977,8 +2095,10 @@
       "name": "Sleepless",
       "plugs": [
         [
+          3525010810,
           1441682018,
-          3525010810
+          3798852852,
+          3809316345
         ],
         [
           3796465595
@@ -2048,7 +2168,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           3142289711,
@@ -2070,7 +2193,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           3142289711,
@@ -2137,7 +2263,11 @@
       "name": "Thoughtless",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1087426260
@@ -2183,55 +2313,25 @@
       "name": "The Third Axiom",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          3250034553,
+          1482024992,
+          4090651448
         ],
         [
-          1561002382
-        ],
-        [
-          1820235745
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          1561002382
+          1561002382,
+          1968497646,
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           1820235745
         ],
         [
-          2458213969
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          1561002382
-        ],
-        [
-          1820235745
-        ],
-        [
+          1546637391,
+          2458213969,
           4049631843
         ]
       ],
@@ -2243,55 +2343,25 @@
       "name": "The Third Axiom",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          3250034553,
+          1482024992,
+          4090651448
         ],
         [
-          1561002382
-        ],
-        [
-          2779035018
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          1561002382
+          1561002382,
+          1968497646,
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           2779035018
         ],
         [
-          2458213969
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          1561002382
-        ],
-        [
-          2779035018
-        ],
-        [
+          1546637391,
+          2458213969,
           4049631843
         ]
       ],
@@ -2303,187 +2373,11 @@
       "name": "The Third Axiom",
       "plugs": [
         [
-          839105230
-        ],
-        [
-          1561002382
-        ],
-        [
-          3436462433
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          1561002382
-        ],
-        [
-          3436462433
-        ],
-        [
-          2458213969
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          1561002382
-        ],
-        [
-          3436462433
-        ],
-        [
-          4049631843
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          1820235745
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          1820235745
-        ],
-        [
-          2458213969
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          1820235745
-        ],
-        [
-          4049631843
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          2779035018
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          2779035018
-        ],
-        [
-          2458213969
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          2779035018
-        ],
-        [
-          4049631843
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
+          839105230,
+          1840239774,
+          3250034553,
+          1482024992,
+          4090651448
         ],
         [
           3230963543
@@ -2492,46 +2386,8 @@
           3436462433
         ],
         [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          3436462433
-        ],
-        [
-          2458213969
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 4156253727,
-      "name": "The Third Axiom",
-      "plugs": [
-        [
-          839105230
-        ],
-        [
-          3230963543
-        ],
-        [
-          3436462433
-        ],
-        [
+          1546637391,
+          2458213969,
           4049631843
         ]
       ],
@@ -2544,11 +2400,16 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          791862061
+          791862061,
+          1087426260,
+          106909392
         ],
         [
           1523832109
@@ -2633,42 +2494,50 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "When using Blinding Grenades your barrel does not really matter that much, but I would avoid barrels that are a detriment to your weapons stats. Quick Launch would be my go to though as Velocity and Handling is very nice for when you're utilizing Blinding Grenades.\nWhile Auto-Loading would be my go to, Field Prep isn't a bad option either. Though it requires you to manually reload which makes it less desirable in my opinion. \nVorpal is not a bad option if you want some extra damage on your Blinding Grenades, though this isn't what you're ideally using them for so having Demolitionist where you can have another shot on demand in case of emergency is nice and Disruption Break can be neat for higher end content where there's Match Game and Solar Shields. \nRecommended MW: Velocity",
       "hash": 4255586669,
       "name": "Empty Vessel",
       "plugs": [
         [
+          3525010810,
+          1441682018,
           981914802,
-          3525010810
+          3798852852,
+          3809316345
         ],
         [
           3032599245
         ],
         [
-          3300816228
+          3300816228,
+          2869569095
         ],
         [
-          960810156,
           1546637391,
-          3523296417
+          3523296417,
+          1683379515
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.\nHard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.\nAmbitious Assassin feels very good on Special GL's and Empty Vessel is no exception. Feeding Frenzy is nice if you're intending to chain kills.\nVorpal and Multikill Clip are both good damage options, Vorpal is a good source of passive bonus damage on Majors and Bosses while Multikill Clip rewards chaining kills has a higher damage buff, but requires to be procced.\nRecommended MW: Velocity or Reload Speed.",
       "hash": 4255586669,
       "name": "Empty Vessel",
       "plugs": [
         [
           981914802,
-          3525010810
+          3525010810,
+          3798852852,
+          3809316345
         ],
         [
           3301904089
         ],
         [
-          3300816228,
           2010801679,
           2779035018
         ],
@@ -2678,7 +2547,10 @@
           3523296417
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "Hammerforged and Smallbore are both good options.\nHigh-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.\nPersonally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.\nRecommended MW: Range or Reload",
@@ -2740,11 +2612,14 @@
         [
           839105230,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1428297954
@@ -2767,11 +2642,14 @@
         [
           839105230,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720
@@ -2793,11 +2671,14 @@
         [
           839105230,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720
@@ -3086,16 +2967,20 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "A weapon from Arrivals that is now only available from Dares and isn't really worthwhile unless you have the specific roll of Feeding Frenzy and Vorpal Weapon.\nFluted Barrel or Arrowhead Brake are solid options and Liquid Coils or Enhanced Battery for second column.\nI would recommend just farming for a Plug One over this though as it is way easier to get a solid roll on it and is way easier to obtain.",
       "hash": 607191995,
       "name": "Hollow Words",
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1687452232,
+          689005463,
           2680121939
         ],
         [
@@ -3105,18 +2990,24 @@
           1546637391
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "Along with Razor's Edge the best legendary Sword for DPS right now. \nGenerally you want Jagged Edge for the extra Impact, with Honed Edge being the second choice if Jagged isn't available.\nWhile Swordmaster's Guard is the best one, as long as it's not Heavy Guard you're generally fine.\nFor DPS you'll want Relentless Strikes, but Tireless works fine for just killing normal ads.\nWhirlwind Blade is your go to for sustained DPS, but Vorpal is better for immediate burst DPS. In the end both are solid options.\nRecommended MW: Impact.",
       "hash": 614426548,
       "name": "Falling Guillotine",
       "plugs": [
         [
-          3666208348
+          3666208348,
+          2827049491
         ],
         [
-          269888150
+          269888150,
+          52780822,
+          599007201
         ],
         [
           1749209109
@@ -3125,29 +3016,44 @@
           3913600130
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
-      "description": "",
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Fluted would be my second choice though.\nAccurized Rounds and Flared Magwell are both solid options for mags, it just comes down to if you want to push your Range slightly further or if you want slightly faster Reload Speed.\nSubsistence is generally the sought after perk in the third column.\nMultikill Clip and Demolitionist are both very good options for your fourth column perks, but Kill Clip, Rampage and Swashbuckler aren't bad options either depending on playstyle.\nRecommended MW: Range",
       "hash": 821154603,
       "name": "Gnawing Hunger",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
-          1820235745
+          1820235745,
+          3643424744
         ],
         [
           2458213969,
-          3523296417
+          3523296417,
+          3425386926,
+          1015611457
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -3207,13 +3113,15 @@
         [
           1482024992,
           3250034553,
-          1840239774
+          1840239774,
+          4090651448
         ],
         [
           1561002382,
           1968497646,
           679225683,
-          3230963543
+          3230963543,
+          1885400500
         ],
         [
           2779035018
@@ -3236,13 +3144,15 @@
         [
           1482024992,
           3250034553,
-          1840239774
+          1840239774,
+          4090651448
         ],
         [
           1561002382,
           1968497646,
           679225683,
-          3230963543
+          3230963543,
+          1885400500
         ],
         [
           3643424744
@@ -3265,13 +3175,15 @@
         [
           1482024992,
           3250034553,
-          1840239774
+          1840239774,
+          4090651448
         ],
         [
           1561002382,
           1968497646,
           679225683,
-          3230963543
+          3230963543,
+          1885400500
         ],
         [
           4071163871
@@ -3466,12 +3378,15 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "My go to roll for this gun.\n\nArrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice.\nBoth Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed.\nRapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun.\nExplosive Payload is a nice damage increase that will also help you deal with Barrier Champions easier in the seasons where Anti-Barrier Scout Rifle mods are available. ",
       "hash": 3504336176,
       "name": "Night Watch",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          3250034553,
+          1482024992
         ],
         [
           3142289711,
@@ -3481,11 +3396,14 @@
           247725512
         ],
         [
-          3038247973,
-          3523296417
+          3038247973
         ]
       ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "Special Mention: Amazing PvP roll.",
@@ -3535,7 +3453,7 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "The Rapid Fire Sniper to replace Ikelos. Being craftable is a huge benefit here as you're no longer relying on RNG.\nI mostly see this as a DPS Sniper in PvE as it doesn't really offer anything else.\n\nArrowhead Brake or Fluted are your best options here.\nTactical Mag allows you to hit 7 in the mag and gives Reload Speed.\nTriple Tap and Focused Fury has good synergy and gives you both ammo economy and higher damage than what Ikelos used to.\nRecommended MW: Range.",
       "hash": 3865728990,
       "name": "Father's Sins",
       "plugs": [
@@ -3555,32 +3473,11 @@
           2402480669
         ]
       ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 3865728990,
-      "name": "Father's Sins",
-      "plugs": [
-        [
-          4090651448,
-          3250034553,
-          1482024992,
-          1392496348
-        ],
-        [
-          1087426260
-        ],
-        [
-          3400784728,
-          573122728
-        ],
-        [
-          2896038713,
-          2402480669
-        ]
-      ],
-      "tags": []
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -3589,7 +3486,9 @@
       "plugs": [
         [
           1441682018,
-          3525010810
+          3525010810,
+          3798852852,
+          3809316345
         ],
         [
           3796465595,
@@ -3617,7 +3516,9 @@
       "plugs": [
         [
           1441682018,
-          3525010810
+          3525010810,
+          3798852852,
+          3809316345
         ],
         [
           3796465595
@@ -3674,7 +3575,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
@@ -3703,7 +3607,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
@@ -3759,13 +3666,15 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "The Raid wave frame has some solid rolls overall.\n\nQuick Launch is solid while Linear Compensator and Smart Drift Control are also good options.\nHigh Velocity Rounds good.\nAmbitious Assassin and Stats For All are both solid options depending on what you prefer.\nGolden Tricorn would solely be if you're running an Arc Subclass, otherwise you'd go with One For All or Chain Reaction here. Personally I'd prefer Chain Reaction, but One For All is still a solid perk.\nRecommended MW: Handling, Reload Speed or Velocity.",
       "hash": 613334176,
       "name": "Forbearance",
       "plugs": [
         [
+          3525010810,
           1441682018,
-          3525010810
+          3798852852,
+          3809316345
         ],
         [
           2822142346
@@ -3780,12 +3689,13 @@
           2610012052,
           4290541820,
           4049631843,
-          859780267,
-          2396489472,
-          598607952
+          859780267
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "",
@@ -3794,11 +3704,15 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           2680121939,
-          1687452232
+          1687452232,
+          689005463
         ],
         [
           3523296417,
@@ -3818,17 +3732,19 @@
       "tags": []
     },
     {
-      "description": "",
+      "description": "A craftable Raid LFR that I would highly recommend getting.\n\nArrowhead Brake is my recommendation here, but Fluted Barrel is also a good option.\nEnhanced Battery makes you hit 6 in the mag which is what you want when using Fourth Times the Charm, you do not want 7 in the mag as it increases the amount of shots needed to proc Focused Fury from 3 to 4.\nRecommended MW: Handling or Range",
       "hash": 999767358,
       "name": "Cataclysmic",
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
-          2680121939,
-          1687452232
+          2680121939
         ],
         [
           1354429876,
@@ -3839,7 +3755,11 @@
           2402480669
         ]
       ],
-      "tags": []
+      "tags": [
+        "PVE",
+        "Mouse",
+        "GodPVE"
+      ]
     },
     {
       "description": "",
@@ -3849,11 +3769,14 @@
         [
           839105230,
           1840239774,
-          4090651448
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720,
@@ -3875,6 +3798,153 @@
         ]
       ],
       "tags": []
+    },
+    {
+      "description": "Did you know that Danger Zone increases the range of Blinding Grenades by 3 meters when procced?\nVery good roll, use Quick Launch if you have it combined with Auto-Loading. If you don't end up liking Danger Zone feel free to opt for something else.\nRecommended MW: Velocity",
+      "hash": 4255586669,
+      "name": "Empty Vessel",
+      "plugs": [
+        [
+          3525010810,
+          1441682018,
+          981914802,
+          3798852852
+        ],
+        [
+          3032599245
+        ],
+        [
+          3300816228,
+          2869569095
+        ],
+        [
+          960810156
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.\nHard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.\nAuto-Loading is a perk that rewards swapping weapons so is best utilized with a passive damage perk like Vorpal or if you're speccing into a grenade build it can also supplement Demolitionist.\nRecommended MW: Velocity.",
+      "hash": 4255586669,
+      "name": "Empty Vessel",
+      "plugs": [
+        [
+          981914802,
+          3525010810,
+          3798852852,
+          3809316345
+        ],
+        [
+          3301904089
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "A Scout Rifle that both feels and looks very good.\nArrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice.\nBoth Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed.\nRapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun.\nDemolitionist is good for those of you who wish to spec into grenade builds while Multikill Clip and Rampage works well for extra damage. Though I'd personally go with Multikill Clip.\nRecommended MW: Range.",
+      "hash": 3504336176,
+      "name": "Night Watch",
+      "plugs": [
+        [
+          839105230,
+          1840239774,
+          1482024992,
+          4090651448,
+          3250034553
+        ],
+        [
+          3142289711,
+          3230963543,
+          106909392,
+          1087426260
+        ],
+        [
+          247725512
+        ],
+        [
+          3523296417,
+          2458213969,
+          3425386926
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "Chain Reaction on a Wave Frame oh boi.\n\nThis would be my recommended roll for this weapon as it has a lot of fun potential for ad clear and is just very synergistic with the frame itself.\nQuick Launch is solid while Linear Compensator and Smart Drift Control are also good options.\nHigh Velocity Rounds is your go to on Wave Frames.\nAmbitious Assassin stands as a solid Special GL perk in general, but with the addition of Stats For All that's also a solid option that meshes with a Chain Reaction roll very well.",
+      "hash": 613334176,
+      "name": "Forbearance",
+      "plugs": [
+        [
+          3525010810,
+          1441682018,
+          3798852852,
+          3809316345
+        ],
+        [
+          2822142346
+        ],
+        [
+          2010801679,
+          3797647183,
+          1583705720,
+          1409206216
+        ],
+        [
+          2396489472,
+          598607952
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "Iron Banner Sword with potential, AD clear edition.\n\nJagged Edge is normally your go to for Swords, Honed Edge is a fine second choice though and you'll usually have one of these.\nSwordmaster's Guard is your best option, but as long as you're avoiding Heavy Guard you're fine.\nRelentless Strikes is very good for when you're consistently hitting targets, while Tireless Blade is good for when you're just killing ads.\nTireless Blade is your go to in situations where you're just killing normal ads, though in casual scenario's you can also mess around with Unrelenting if you want.\nFrenzy is an interesting option on Swords now that Vorpal has been nerfed to be 10% on Power weapons and is definitely worth considering as Frenzy will be procced in many situations where you're using a Sword. Chain Reaction also has potential for some fun ad clear in casual content.\nRecommended MW: Impact.",
+      "hash": 1796949035,
+      "name": "Razors Edge",
+      "plugs": [
+        [
+          3666208348,
+          2827049491
+        ],
+        [
+          269888150,
+          599007201,
+          52780822
+        ],
+        [
+          2590710093
+        ],
+        [
+          2396489472
+        ],
+        [
+          3989629871
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
     },
     {
       "description": "For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine. \nFor PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either.\nAggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly.\nSubsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh).\nVorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds.\nRecommended MW: Range or Handling",
@@ -4000,12 +4070,17 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
           1968497646,
-          679225683
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           1570042021
@@ -4025,12 +4100,17 @@
       "plugs": [
         [
           839105230,
-          1482024992
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
           1968497646,
-          679225683
+          679225683,
+          3230963543,
+          1885400500
         ],
         [
           3643424744
@@ -4049,7 +4129,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
@@ -4074,7 +4157,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
@@ -4099,7 +4185,10 @@
       "plugs": [
         [
           839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553
         ],
         [
           1561002382,
@@ -4144,11 +4233,17 @@
       "name": "The Messenger (Adept)",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
-          679225683
+          679225683,
+          1885400500,
+          3230963543
         ],
         [
           1168162263
@@ -4165,11 +4260,17 @@
       "name": "The Messenger (Adept)",
       "plugs": [
         [
-          839105230
+          839105230,
+          1840239774,
+          4090651448,
+          3250034553,
+          1482024992
         ],
         [
           1561002382,
-          679225683
+          679225683,
+          1885400500,
+          3230963543
         ],
         [
           247725512
@@ -4187,11 +4288,14 @@
       "plugs": [
         [
           1482024992,
-          1840239774
+          1840239774,
+          3250034553,
+          4090651448
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1428297954
@@ -4211,11 +4315,14 @@
       "plugs": [
         [
           1482024992,
-          1840239774
+          1840239774,
+          4090651448,
+          3250034553
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           2450788523
@@ -4361,11 +4468,14 @@
         [
           839105230,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1428297954
@@ -4388,11 +4498,14 @@
         [
           839105230,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720
@@ -4414,11 +4527,14 @@
         [
           839105230,
           3250034553,
-          1482024992
+          1482024992,
+          4090651448,
+          1840239774
         ],
         [
           3142289711,
-          3230963543
+          3230963543,
+          106909392
         ],
         [
           1583705720
