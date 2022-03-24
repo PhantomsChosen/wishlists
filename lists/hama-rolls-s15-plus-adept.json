@@ -1,0 +1,4437 @@
+{
+  "description": "Made by Hama, assisted by Ranthalos and Meteor w/ technical stuff",
+  "name": "Basic PvE Weapons rolls to look for",
+  "data": [
+    {
+      "description": "I've never really liked the feel of 150 rpm Scout Rifles until this one came along and a good amount of people I've talked to seem to share this sentiment.\nArrowhead Brake will turn your 74 base recoil into 100, which is pretty good value if you happen to get that. Fluted is a good second option though.\nWith the high base Range of this gun (like 90m), accurized doesn't really offer much so I'd prefer Flared Magwell and possibly Tactical Mag as a second choice.\nRapid Hit to me is one of the (if not the) best perk to have on a Scout Rifle as it gives you so much in terms of Reload Speed and Stability.\nExplosive Payload is a generally good damage perk option on a Scout, but since this is a Stasis one it can also roll Headstone if you're into that.\nRecommended MW: Handling ",
+      "hash": 1019000888,
+      "name": "Perses-D",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          247725512
+        ],
+        [
+          124408337,
+          3038247973
+        ],
+        [
+          1607056502
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine. \nFor PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either.\nAggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly.\nSubsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh).\nVorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds.\nRecommended MW: Range or Handling",
+      "hash": 1028582252,
+      "name": "The Comedian",
+      "plugs": [
+        [
+          1047830412,
+          4090651448,
+          1300023272
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          1556840489,
+          2621346526,
+          1820235745
+        ],
+        [
+          1546637391,
+          11612903
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 1107446438,
+      "name": "Servant Leader",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          247725512
+        ],
+        [
+          1015611457,
+          2458213969,
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1107446438,
+      "name": "Servant Leader",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          247725512
+        ],
+        [
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1107446438,
+      "name": "Servant Leader",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543,
+          3142289711
+        ],
+        [
+          3436462433
+        ],
+        [
+          1015611457,
+          2458213969,
+          4049631843,
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1107446438,
+      "name": "Servant Leader",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          3700496672
+        ],
+        [
+          4049631843,
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1248372789,
+      "name": "Sweet Sorrow",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720,
+          1409206216
+        ],
+        [
+          1546637391,
+          3418165135,
+          3523296417,
+          1906147653
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1248372789,
+      "name": "Sweet Sorrow",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720,
+          1409206216
+        ],
+        [
+          4049631843,
+          859780267
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1248372789,
+      "name": "Sweet Sorrow",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992,
+          1840239774
+        ],
+        [
+          3230963543,
+          3142289711
+        ],
+        [
+          972757866,
+          1685378950
+        ],
+        [
+          1546637391,
+          3418165135,
+          3523296417,
+          1906147653,
+          4049631843,
+          859780267
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1392919471,
+      "name": "Trustee",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1168162263,
+          3436462433
+        ],
+        [
+          3201496230,
+          3592538738
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1399109800,
+      "name": "Fel Taradiddle",
+      "plugs": [
+        [
+          2801223209
+        ],
+        [
+          3429800428
+        ],
+        [
+          201365942,
+          3523746922
+        ],
+        [
+          3365897133,
+          1551736345,
+          2652708987,
+          617966211
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1399243961,
+      "name": "Reeds Regret",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          2284787283
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1399243961,
+      "name": "Reeds Regret",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          2284787283
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1399243961,
+      "name": "Reeds Regret",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          2680121939,
+          1687452232
+        ],
+        [
+          3400784728
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1399243961,
+      "name": "Reeds Regret",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          2680121939,
+          1687452232
+        ],
+        [
+          3400784728
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1526296434,
+      "name": "Forensic Nightmare",
+      "plugs": [
+        [
+          1482024992,
+          1840239774
+        ],
+        [
+          1561002382,
+          3230963543,
+          679225683
+        ],
+        [
+          1428297954,
+          2014892510
+        ],
+        [
+          1015611457,
+          2923251173,
+          124408337,
+          1171887445,
+          4082225868,
+          1161469972
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1786797708,
+      "name": "Escape Velocity",
+      "plugs": [
+        [
+          663495154,
+          663495155
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          3643424744
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1786797708,
+      "name": "Escape Velocity",
+      "plugs": [
+        [
+          663495154,
+          663495155
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          4071163871
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1796949035,
+      "name": "Razors Edge",
+      "plugs": [
+        [
+          3666208348
+        ],
+        [
+          269888150
+        ],
+        [
+          1749209109
+        ],
+        [
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1907698332,
+      "name": "The Summoner",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683
+        ],
+        [
+          1570042021
+        ],
+        [
+          2458213969,
+          2610012052,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1907698332,
+      "name": "The Summoner",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683
+        ],
+        [
+          3643424744
+        ],
+        [
+          2610012052,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1946491241,
+      "name": "Truthteller",
+      "plugs": [
+        [
+          3525010810,
+          1441682018,
+          981914802
+        ],
+        [
+          3032599245
+        ],
+        [
+          3300816228
+        ],
+        [
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1946491241,
+      "name": "Truthteller",
+      "plugs": [
+        [
+          3525010810,
+          981914802
+        ],
+        [
+          3301904089
+        ],
+        [
+          2779035018
+        ],
+        [
+          2458213969,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1946491241,
+      "name": "Truthteller",
+      "plugs": [
+        [
+          3525010810,
+          981914802
+        ],
+        [
+          3301904089
+        ],
+        [
+          3300816228
+        ],
+        [
+          2458213969,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1994645182,
+      "name": "Likely Suspect",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          1428297954,
+          2014892510,
+          1570042021,
+          2748258257
+        ],
+        [
+          2610012052,
+          4290541820,
+          3673922083,
+          2889515627,
+          2652708987,
+          617966211
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1994645182,
+      "name": "Likely Suspect",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          2621346526,
+          2495011826
+        ],
+        [
+          2610012052,
+          4290541820,
+          3673922083,
+          2889515627,
+          2652708987,
+          617966211
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2050789284,
+      "name": "Stars In Shadow",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          1168162263
+        ],
+        [
+          1015611457,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2050789284,
+      "name": "Stars In Shadow",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          2779035018
+        ],
+        [
+          1015611457,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2050789284,
+      "name": "Stars In Shadow",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          3436462433
+        ],
+        [
+          1015611457,
+          3523296417,
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2050789284,
+      "name": "Stars In Shadow",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3230963543
+        ],
+        [
+          1168162263
+        ],
+        [
+          1015611457,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2050789284,
+      "name": "Stars In Shadow",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3230963543
+        ],
+        [
+          2779035018
+        ],
+        [
+          1015611457,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2050789284,
+      "name": "Stars In Shadow",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3230963543
+        ],
+        [
+          3436462433
+        ],
+        [
+          1015611457,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "If you're a fan of 720 rpm Auto's then the only Solar one currently available in Risen is the Arctic Haze from Europa.\nArrowhead Brake is my go to roll for most Auto Rifles, but Fluted, Hammerforged and Smallbore are also fine options.\nAccurized would be my go to as you're already getting a good amount of Reload from Outlaw or Ammo back from Subsistence, but Flared Magwell is not a bad option either.\nWhile it lacks versatile rolls it can still get Subsistence or Outlaw paired with Vorpal Weapon.\nRecommended MW: Range",
+      "hash": 20935540,
+      "name": "Arctic Haze",
+      "plugs": [
+        [
+          839105230,
+          1840239774,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1168162263,
+          1820235745
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "A lot of people (including me), are not fans of the Lightweight Bow archetype, but at least this one can roll Vorpal so there's that.\nRecommended MW: Draw Time",
+      "hash": 211938782,
+      "name": "Whispering Slab",
+      "plugs": [
+        [
+          2801223209
+        ],
+        [
+          3429800428
+        ],
+        [
+          201365942
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 2171478765,
+      "name": "Fatebringer",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          3038247973
+        ],
+        [
+          1015611457,
+          4104185692,
+          3824105627,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "Best legendary Void bow as of Risen, 4th column can roll some interesting stuff like Dragonfly and Successful Warm-up, but I prefer to stick to the old reliable Archer's Tempo + Explosive Head combination. Also this is a craftable weapon so that's a +.\nRecommended MW: Draw Time.",
+      "hash": 232928045,
+      "name": "Under Your Skin",
+      "plugs": [
+        [
+          2801223209
+        ],
+        [
+          3429800428
+        ],
+        [
+          201365942
+        ],
+        [
+          3365897133,
+          1551736345,
+          2652708987,
+          617966211,
+          2848615171,
+          169755979
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 235827225,
+      "name": "Eyasluna",
+      "plugs": [
+        [
+          1926090092
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          1168162263
+        ],
+        [
+          1015611457,
+          124408337
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 235827225,
+      "name": "Eyasluna",
+      "plugs": [
+        [
+          1926090092
+        ],
+        [
+          1561002382
+        ],
+        [
+          247725512
+        ],
+        [
+          1015611457
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 235827225,
+      "name": "Eyasluna",
+      "plugs": [
+        [
+          1926090092
+        ],
+        [
+          1561002382
+        ],
+        [
+          247725512
+        ],
+        [
+          124408337
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 235827225,
+      "name": "Eyasluna",
+      "plugs": [
+        [
+          1926090092
+        ],
+        [
+          1968497646
+        ],
+        [
+          247725512
+        ],
+        [
+          1015611457
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 235827225,
+      "name": "Eyasluna",
+      "plugs": [
+        [
+          1926090092
+        ],
+        [
+          1968497646
+        ],
+        [
+          247725512
+        ],
+        [
+          124408337
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2448907086,
+      "name": "Royal Entry",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          951095735
+        ],
+        [
+          2284787283,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2448907086,
+      "name": "Royal Entry",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228
+        ],
+        [
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2481758391,
+      "name": "Darkest Before",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683,
+          3230963543
+        ],
+        [
+          1820235745,
+          3436462433,
+          3643424744
+        ],
+        [
+          4049631843,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2496875173,
+      "name": "Sorrows Verse",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          3230963543,
+          3142289711
+        ],
+        [
+          1820235745
+        ],
+        [
+          2458213969,
+          3523296417,
+          4049631843,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2496875173,
+      "name": "Sorrows Verse",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          3230963543,
+          3142289711
+        ],
+        [
+          2779035018
+        ],
+        [
+          2458213969,
+          3523296417,
+          4049631843,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2496875173,
+      "name": "Sorrows Verse",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          3230963543,
+          3142289711
+        ],
+        [
+          3436462433
+        ],
+        [
+          2458213969,
+          4049631843,
+          3523296417,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2638190703,
+      "name": "Aishas Embrace",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          1546637391,
+          2458213969,
+          3673922083
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2638190703,
+      "name": "Aishas Embrace",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          3230963543
+        ],
+        [
+          3400784728
+        ],
+        [
+          1546637391,
+          2458213969,
+          3673922083
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2638190703,
+      "name": "Aishas Embrace",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          3230963543
+        ],
+        [
+          3700496672
+        ],
+        [
+          1546637391,
+          2458213969,
+          3673922083
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2721249463,
+      "name": "Tyranny of Heaven",
+      "plugs": [
+        [
+          2801223209
+        ],
+        [
+          3827198035
+        ],
+        [
+          201365942
+        ],
+        [
+          3365897133
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2807687156,
+      "name": "Distant Tumulus",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          106909392
+        ],
+        [
+          2284787283
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2852052802,
+      "name": "Krait",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          1546637391,
+          3673922083
+        ],
+        [
+          3988215619
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2852052802,
+      "name": "Krait",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          4049631843
+        ],
+        [
+          3988215619
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2852052802,
+      "name": "Krait",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          1546637391,
+          3673922083,
+          4049631843
+        ],
+        [
+          3988215619
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2852052802,
+      "name": "Krait",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          3643424744
+        ],
+        [
+          1546637391,
+          3673922083,
+          4049631843
+        ],
+        [
+          3988215619
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2990047042,
+      "name": "Succession",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          2420895100
+        ],
+        [
+          1523832109
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2990047042,
+      "name": "Succession",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          2420895100
+        ],
+        [
+          1523832109
+        ],
+        [
+          469285294
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3067821200,
+      "name": "Heretic",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          951095735
+        ],
+        [
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "180s are generally not considered to be in a great spot, but that doesn't mean they don't have some solid rolls going for them.\nHammerforged and Smallbore both provides the stats you're looking for from a barrel.\nHigh-Cal is nice for extra flinch and Light Mag provides a nice boost to both Range and Reload.\nRapid Hit works very well on this archetype as it provides both a good chunk of Stability and Reload, though you can make do with Surplus or Outlaw depending on your preferences and play style.\nOne For All and Multikill Clip are both good options aimed at different types of activities, with OFA being preferred for activities where you can't proc MKC as often.\nRecommended MW: Range ",
+      "hash": 310708513,
+      "name": "Survivors Epitaph",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          1561002382,
+          679225683
+        ],
+        [
+          247725512
+        ],
+        [
+          4049631843,
+          2458213969
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 3186018373,
+      "name": "Vision of Confluence",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683
+        ],
+        [
+          3436462433,
+          3592538738
+        ],
+        [
+          3824105627
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3197270240,
+      "name": "Found Verdict",
+      "plugs": [
+        [
+          1047830412,
+          1300023272,
+          4090651448
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          4104185692,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "Special Mention: Amazing PvP roll.",
+      "hash": 3197270240,
+      "name": "Found Verdict",
+      "plugs": [
+        [
+          1047830412
+        ],
+        [
+          3142289711
+        ],
+        [
+          3436462433,
+          3161816588
+        ],
+        [
+          47981717
+        ]
+      ],
+      "tags": [
+        "GodPVP",
+        "PVP",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 3242168339,
+      "name": "Vouchsafe",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          247725512
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3242168339,
+      "name": "Vouchsafe",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          247725512
+        ],
+        [
+          3038247973
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3242168339,
+      "name": "Vouchsafe",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          3436462433
+        ],
+        [
+          1546637391,
+          3038247973
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3281285075,
+      "name": "Posterity",
+      "plugs": [
+        [
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543,
+          106909392
+        ],
+        [
+          3436462433
+        ],
+        [
+          3201496230,
+          4049631843,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3281285075,
+      "name": "Posterity",
+      "plugs": [
+        [
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543,
+          106909392
+        ],
+        [
+          247725512
+        ],
+        [
+          3201496230,
+          4049631843,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3326850591,
+      "name": "The Long Walk",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1087426260
+        ],
+        [
+          2284787283,
+          2621346526,
+          3643424744
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          1428297954
+        ],
+        [
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          1820235745
+        ],
+        [
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3341893443,
+      "name": "Funnelweb",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          4104185692
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3355385170,
+      "name": "Silicon Neuroma",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1087426260
+        ],
+        [
+          3400784728
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3434944005,
+      "name": "Point of the Stag",
+      "plugs": [
+        [
+          2801223209
+        ],
+        [
+          1500996326
+        ],
+        [
+          201365942
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3473290087,
+      "name": "Frozen Orbit",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1087426260
+        ],
+        [
+          2284787283,
+          3400784728
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3512349612,
+      "name": "Coriolis Force",
+      "plugs": [
+        [
+          1840239774,
+          839105230
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          1645158859,
+          972757866
+        ],
+        [
+          2846385770
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3616586446,
+      "name": "First In, Last Out",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3658188704,
+      "name": "The Messenger",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382,
+          679225683
+        ],
+        [
+          1168162263
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3658188704,
+      "name": "The Messenger",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382,
+          679225683
+        ],
+        [
+          247725512
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3682803680,
+      "name": "Shayuras Wrath",
+      "plugs": [
+        [
+          1482024992,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          1015611457,
+          2610012052,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3682803680,
+      "name": "Shayuras Wrath",
+      "plugs": [
+        [
+          1482024992,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          2450788523
+        ],
+        [
+          1015611457,
+          2610012052,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3740842661,
+      "name": "Sleepless",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3849810018,
+      "name": "Pardon Our Dust",
+      "plugs": [
+        [
+          3525010810,
+          1441682018
+        ],
+        [
+          3032599245
+        ],
+        [
+          3300816228,
+          1428297954
+        ],
+        [
+          960810156,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3849810018,
+      "name": "Pardon Our Dust",
+      "plugs": [
+        [
+          3525010810,
+          981914802
+        ],
+        [
+          3301904089
+        ],
+        [
+          3300816228,
+          2010801679,
+          1428297954
+        ],
+        [
+          1546637391,
+          3523296417,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4037745684,
+      "name": "Bonechiller",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          3300816228
+        ],
+        [
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4037745684,
+      "name": "Bonechiller",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          3400784728
+        ],
+        [
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4050645223,
+      "name": "Hezen Vengeance",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          951095735,
+          3643424744
+        ],
+        [
+          1546637391,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4050645223,
+      "name": "Hezen Vengeance",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4067556514,
+      "name": "Thoughtless",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1087426260
+        ],
+        [
+          3643424744,
+          2682205016
+        ],
+        [
+          1771339417,
+          395388285
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "Can roll the old reliable combination of Archer's Tempo + Explosive head in the Kinetic slot as a Precision Bow which makes it a solid choice.\nRecommended MW: Draw Time",
+      "hash": 4095896073,
+      "name": "Accrued Redemption",
+      "plugs": [
+        [
+          2801223209
+        ],
+        [
+          3827198035
+        ],
+        [
+          201365942
+        ],
+        [
+          3365897133
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          1820235745
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          1820235745
+        ],
+        [
+          2458213969
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          1820235745
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          2779035018
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          2779035018
+        ],
+        [
+          2458213969
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          2779035018
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          3436462433
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          3436462433
+        ],
+        [
+          2458213969
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          3436462433
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          2458213969
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          2779035018
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          2779035018
+        ],
+        [
+          2458213969
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          2779035018
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          3436462433
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          3436462433
+        ],
+        [
+          2458213969
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4156253727,
+      "name": "The Third Axiom",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          3436462433
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4248569242,
+      "name": "Heritage",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          1523832109
+        ],
+        [
+          469285294
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4255171531,
+      "name": "The Hothead",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          2621346526
+        ],
+        [
+          2284787283,
+          1546637391,
+          3194351027,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4255171531,
+      "name": "The Hothead",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          951095735
+        ],
+        [
+          2284787283,
+          1546637391,
+          3194351027,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4255171531,
+      "name": "The Hothead",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          3194351027,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4255586669,
+      "name": "Empty Vessel",
+      "plugs": [
+        [
+          981914802,
+          3525010810
+        ],
+        [
+          3032599245
+        ],
+        [
+          3300816228
+        ],
+        [
+          960810156,
+          1546637391,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4255586669,
+      "name": "Empty Vessel",
+      "plugs": [
+        [
+          981914802,
+          3525010810
+        ],
+        [
+          3301904089
+        ],
+        [
+          3300816228,
+          2010801679,
+          2779035018
+        ],
+        [
+          1546637391,
+          2458213969,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "Hammerforged and Smallbore are both good options.\nHigh-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.\nPersonally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.\nRecommended MW: Range or Reload",
+      "hash": 432476743,
+      "name": "The Palindrome",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          1561002382,
+          1968497646
+        ],
+        [
+          1168162263,
+          3643424744
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "Personal Recommendation\nHammerforged and Smallbore are both good options.\nHigh-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.\nPersonally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.\nRecommended MW: Range or Reload",
+      "hash": 432476743,
+      "name": "The Palindrome",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          1561002382,
+          1968497646
+        ],
+        [
+          1583705720
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nAccurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.\nAs with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.\nThis weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.\nRecommended MW: Range.",
+      "hash": 435216110,
+      "name": "Duty Bound",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          1546637391,
+          4049631843
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nAccurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.\nAs with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.\nThis weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.\nRecommended MW: Range.",
+      "hash": 435216110,
+      "name": "Duty Bound",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nAccurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.\nAs with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.\nThis weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.\nRecommended MW: Range.",
+      "hash": 435216110,
+      "name": "Duty Bound",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nHigh-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.\nFor the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.\nInteresting roll might be Demolitionist + Osmosis if you're looking to build craft.\nRecommended MW: Range.",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          1820235745
+        ],
+        [
+          11612903
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nHigh-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.\nFor the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.\nInteresting roll might be Demolitionist + Osmosis if you're looking to build craft.\nRecommended MW: Range.",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          1820235745
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nHigh-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.\nFor the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.\nInteresting roll might be Demolitionist + Osmosis if you're looking to build craft.\nRecommended MW: Range.",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          3523296417
+        ],
+        [
+          11612903
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nHigh-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.\nFor the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.\nInteresting roll might be Demolitionist + Osmosis if you're looking to build craft.\nRecommended MW: Range.",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382
+        ],
+        [
+          3523296417
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          679225683
+        ],
+        [
+          1820235745
+        ],
+        [
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1968497646
+        ],
+        [
+          1820235745
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1968497646
+        ],
+        [
+          3523296417
+        ],
+        [
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 507038823,
+      "name": "The Last Breath",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1968497646
+        ],
+        [
+          3523296417
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 548958835,
+      "name": "Retraced Path",
+      "plugs": [
+        [
+          1840239774,
+          3250034553,
+          1482024992
+        ],
+        [
+          732557052,
+          2749775325
+        ],
+        [
+          1428297954
+        ],
+        [
+          2610012052,
+          4049631843,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 548958835,
+      "name": "Retraced Path",
+      "plugs": [
+        [
+          1840239774,
+          3250034553,
+          1482024992
+        ],
+        [
+          732557052,
+          2749775325
+        ],
+        [
+          1820235745
+        ],
+        [
+          2610012052,
+          4049631843,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 548958835,
+      "name": "Retraced Path",
+      "plugs": [
+        [
+          1840239774,
+          3250034553,
+          1482024992
+        ],
+        [
+          732557052,
+          2749775325
+        ],
+        [
+          2779035018
+        ],
+        [
+          2610012052,
+          4049631843,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 548958835,
+      "name": "Retraced Path",
+      "plugs": [
+        [
+          1840239774,
+          3250034553,
+          1482024992
+        ],
+        [
+          732557052,
+          2749775325
+        ],
+        [
+          3700496672
+        ],
+        [
+          2610012052,
+          4049631843,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 607191995,
+      "name": "Hollow Words",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          2779035018
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 614426548,
+      "name": "Falling Guillotine",
+      "plugs": [
+        [
+          3666208348
+        ],
+        [
+          269888150
+        ],
+        [
+          1749209109
+        ],
+        [
+          3913600130
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 821154603,
+      "name": "Gnawing Hunger",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1820235745
+        ],
+        [
+          2458213969,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 829330711,
+      "name": "Peacebond",
+      "plugs": [
+        [
+          3250034553,
+          1482024992
+        ],
+        [
+          106909392,
+          3230963543,
+          3142289711
+        ],
+        [
+          1820235745
+        ],
+        [
+          124408337,
+          3523296417,
+          438098033
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 829330711,
+      "name": "Peacebond",
+      "plugs": [
+        [
+          3250034553,
+          1482024992
+        ],
+        [
+          106909392,
+          3230963543,
+          3142289711
+        ],
+        [
+          2846385770
+        ],
+        [
+          124408337,
+          3523296417,
+          438098033
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 875848769,
+      "name": "Borrowed Time",
+      "plugs": [
+        [
+          1482024992,
+          3250034553,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683,
+          3230963543
+        ],
+        [
+          2779035018
+        ],
+        [
+          3523296417,
+          4049631843,
+          4104185692,
+          3425386926,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 875848769,
+      "name": "Borrowed Time",
+      "plugs": [
+        [
+          1482024992,
+          3250034553,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683,
+          3230963543
+        ],
+        [
+          3643424744
+        ],
+        [
+          3523296417,
+          4049631843,
+          4104185692,
+          3425386926,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 875848769,
+      "name": "Borrowed Time",
+      "plugs": [
+        [
+          1482024992,
+          3250034553,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683,
+          3230963543
+        ],
+        [
+          4071163871
+        ],
+        [
+          3523296417,
+          4049631843,
+          4104185692,
+          3425386926,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 927567426,
+      "name": "Come To Pass",
+      "plugs": [
+        [
+          1840239774,
+          839105230,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954,
+          2014892510
+        ],
+        [
+          2610012052,
+          4290541820,
+          4049631843,
+          859780267
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 927567426,
+      "name": "Come To Pass",
+      "plugs": [
+        [
+          1840239774,
+          839105230,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720,
+          1409206216
+        ],
+        [
+          2610012052,
+          4290541820,
+          4049631843,
+          859780267
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 927567426,
+      "name": "Come To Pass",
+      "plugs": [
+        [
+          1840239774,
+          839105230,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          3700496672,
+          2840833776
+        ],
+        [
+          2610012052,
+          4290541820,
+          4049631843,
+          859780267
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1216319404,
+      "name": "Fatebringer (Timelost)",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          3038247973
+        ],
+        [
+          3824105627,
+          1015611457,
+          4104185692,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1921159786,
+      "name": "Hezen Vengeance (Timelost)",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          951095735,
+          3643424744
+        ],
+        [
+          1546637391,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 690668916,
+      "name": "Vision of Confluence (Timelost)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683
+        ],
+        [
+          3436462433,
+          3592538738
+        ],
+        [
+          3824105627
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 631439337,
+      "name": "Found Verdict (Timelost)",
+      "plugs": [
+        [
+          1047830412,
+          1300023272,
+          4090651448
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          4104185692,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3504336176,
+      "name": "Night Watch",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          247725512
+        ],
+        [
+          3038247973,
+          3523296417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "Special Mention: Amazing PvP roll.",
+      "hash": 631439337,
+      "name": "Found Verdict (Timelost)",
+      "plugs": [
+        [
+          1047830412
+        ],
+        [
+          3142289711
+        ],
+        [
+          3436462433,
+          3161816588
+        ],
+        [
+          47981717
+        ]
+      ],
+      "tags": [
+        "GodPVP",
+        "PVP",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 1921159786,
+      "name": "Hezen Vengeance (Timelost)",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3865728990,
+      "name": "Father's Sins",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          106909392
+        ],
+        [
+          3400784728,
+          573122728
+        ],
+        [
+          2896038713,
+          2402480669
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3865728990,
+      "name": "Father's Sins",
+      "plugs": [
+        [
+          4090651448,
+          3250034553,
+          1482024992,
+          1392496348
+        ],
+        [
+          1087426260
+        ],
+        [
+          3400784728,
+          573122728
+        ],
+        [
+          2896038713,
+          2402480669
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3489657138,
+      "name": "Palmyra-B",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595,
+          2985827016
+        ],
+        [
+          2621346526,
+          2495011826,
+          2010801679,
+          3797647183
+        ],
+        [
+          3927722942,
+          1167468626,
+          3194351027,
+          2275087323
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3489657138,
+      "name": "Palmyra-B",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228,
+          3528046508
+        ],
+        [
+          3927722942,
+          1167468626,
+          3194351027,
+          2275087323
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3175851496,
+      "name": "Red Herring",
+      "plugs": [
+        [
+          3525010810,
+          1441682018
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          2621346526,
+          2495011826,
+          2010801679,
+          3797647183,
+          2869569095,
+          2308090567
+        ],
+        [
+          4104185692,
+          3007133316,
+          3927722942,
+          1167468626,
+          2610012052,
+          4290541820
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2097055732,
+      "name": "Piece of Mind",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          3643424744,
+          2682205016,
+          1428297954,
+          2014892510
+        ],
+        [
+          1546637391,
+          3418165135,
+          11612903,
+          2422968039
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2097055732,
+      "name": "Piece of Mind",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          679225683,
+          3230963543
+        ],
+        [
+          1583705720,
+          1409206216
+        ],
+        [
+          1546637391,
+          3418165135,
+          11612903,
+          2422968039
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3886416794,
+      "name": "Submission",
+      "plugs": [
+        [
+          3250034553,
+          1482024992,
+          1840239774,
+          4090651448
+        ],
+        [
+          3142289711,
+          3230963543,
+          106909392
+        ],
+        [
+          3643424744,
+          2682205016,
+          1820235745,
+          4245865861,
+          1428297954,
+          2014892510
+        ],
+        [
+          4104185692,
+          3007133316,
+          3523296417,
+          1906147653,
+          4082225868,
+          1161469972
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 613334176,
+      "name": "Forbearance",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2822142346
+        ],
+        [
+          2010801679,
+          3797647183,
+          1583705720,
+          1409206216
+        ],
+        [
+          2610012052,
+          4290541820,
+          4049631843,
+          859780267,
+          2396489472,
+          598607952
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 768621510,
+      "name": "Deliverance",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          2680121939,
+          1687452232
+        ],
+        [
+          3523296417,
+          1906147653,
+          1428297954,
+          2014892510
+        ],
+        [
+          2978966579,
+          344235611,
+          11612903,
+          2422968039,
+          2652708987,
+          617966211
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 999767358,
+      "name": "Cataclysmic",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          2680121939,
+          1687452232
+        ],
+        [
+          1354429876,
+          848860060
+        ],
+        [
+          2896038713,
+          2402480669
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3428521585,
+      "name": "Insidious",
+      "plugs": [
+        [
+          839105230,
+          1840239774,
+          4090651448
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720,
+          1409206216,
+          3523296417,
+          1906147653,
+          2848615171,
+          169755979,
+          247725512,
+          2938480696
+        ],
+        [
+          4049631843,
+          859780267,
+          1546637391,
+          3418165135,
+          11612903,
+          2422968039
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine. \nFor PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either.\nAggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly.\nSubsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh).\nVorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds.\nRecommended MW: Range or Handling",
+      "hash": 2443900757,
+      "name": "The Comedian (Adept)",
+      "plugs": [
+        [
+          1047830412,
+          4090651448,
+          1300023272
+        ],
+        [
+          3142289711,
+          791862061
+        ],
+        [
+          1556840489,
+          2621346526,
+          1820235745
+        ],
+        [
+          1546637391,
+          11612903
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 2475355656,
+      "name": "Reeds Regret (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          2284787283
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2475355656,
+      "name": "Reeds Regret (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1687452232,
+          2680121939
+        ],
+        [
+          2284787283
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2475355656,
+      "name": "Reeds Regret (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          2680121939,
+          1687452232
+        ],
+        [
+          3400784728
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 2475355656,
+      "name": "Reeds Regret (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          2680121939,
+          1687452232
+        ],
+        [
+          3400784728
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3514144928,
+      "name": "The Summoner (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683
+        ],
+        [
+          1570042021
+        ],
+        [
+          2458213969,
+          2610012052,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3514144928,
+      "name": "The Summoner (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1482024992
+        ],
+        [
+          1561002382,
+          1968497646,
+          679225683
+        ],
+        [
+          3643424744
+        ],
+        [
+          2610012052,
+          3425386926
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3245493570,
+      "name": "Aishas Embrace (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          1546637391,
+          2458213969,
+          3673922083
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3245493570,
+      "name": "Aishas Embrace (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          3230963543
+        ],
+        [
+          3400784728
+        ],
+        [
+          1546637391,
+          2458213969,
+          3673922083
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3245493570,
+      "name": "Aishas Embrace (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1561002382,
+          1968497646,
+          3230963543
+        ],
+        [
+          3700496672
+        ],
+        [
+          1546637391,
+          2458213969,
+          3673922083
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1387987271,
+      "name": "Silicon Neuroma (Adept)",
+      "plugs": [
+        [
+          839105230,
+          1840239774
+        ],
+        [
+          1087426260
+        ],
+        [
+          3400784728
+        ],
+        [
+          1771339417
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1173780905,
+      "name": "The Messenger (Adept)",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382,
+          679225683
+        ],
+        [
+          1168162263
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1173780905,
+      "name": "The Messenger (Adept)",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1561002382,
+          679225683
+        ],
+        [
+          247725512
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4023807721,
+      "name": "Shayuras Wrath (Adept)",
+      "plugs": [
+        [
+          1482024992,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          1015611457,
+          2610012052,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 4023807721,
+      "name": "Shayuras Wrath (Adept)",
+      "plugs": [
+        [
+          1482024992,
+          1840239774
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          2450788523
+        ],
+        [
+          1015611457,
+          2610012052,
+          11612903
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1866778462,
+      "name": "The Hothead (Adept)",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          2621346526
+        ],
+        [
+          2284787283,
+          1546637391,
+          3194351027,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1866778462,
+      "name": "The Hothead (Adept)",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          2985827016,
+          3796465595
+        ],
+        [
+          951095735
+        ],
+        [
+          2284787283,
+          1546637391,
+          3194351027,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1866778462,
+      "name": "The Hothead (Adept)",
+      "plugs": [
+        [
+          1441682018,
+          3525010810
+        ],
+        [
+          3796465595
+        ],
+        [
+          3300816228
+        ],
+        [
+          1546637391,
+          3194351027,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "Hammerforged and Smallbore are both good options.\nHigh-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.\nPersonally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.\nRecommended MW: Range or Reload",
+      "hash": 1481892490,
+      "name": "The Palindrome (Adept)",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          1561002382,
+          1968497646
+        ],
+        [
+          1168162263,
+          3643424744
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "Personal Recommendation\nHammerforged and Smallbore are both good options.\nHigh-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.\nPersonally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.\nRecommended MW: Range or Reload",
+      "hash": 1481892490,
+      "name": "The Palindrome (Adept)",
+      "plugs": [
+        [
+          1482024992,
+          3250034553
+        ],
+        [
+          1561002382,
+          1968497646
+        ],
+        [
+          1583705720
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nAccurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.\nAs with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.\nThis weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.\nRecommended MW: Range.",
+      "hash": 1135050595,
+      "name": "Duty Bound (Adept)",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1428297954
+        ],
+        [
+          1546637391,
+          4049631843
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nAccurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.\nAs with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.\nThis weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.\nRecommended MW: Range.",
+      "hash": 1135050595,
+      "name": "Duty Bound (Adept)",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          1546637391
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.\nAccurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.\nAs with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.\nThis weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.\nRecommended MW: Range.",
+      "hash": 1135050595,
+      "name": "Duty Bound (Adept)",
+      "plugs": [
+        [
+          839105230,
+          3250034553,
+          1482024992
+        ],
+        [
+          3142289711,
+          3230963543
+        ],
+        [
+          1583705720
+        ],
+        [
+          4049631843
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE",
+        "Mouse"
+      ]
+    }
+  ]
+}
