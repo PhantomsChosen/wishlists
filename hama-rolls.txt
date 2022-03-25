@@ -6520,12 +6520,12 @@ dimwishlist:item=3504336176&perks=1482024992,3230963543,247725512,3038247973
 
 
 // Night Watch - Night Watch (pve,mnk)
-//notes: A Scout Rifle that both feels and looks very good.
-Arrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice.
-Both Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed.
-Rapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun.
-Demolitionist is good for those of you who wish to spec into grenade builds while Multikill Clip and Rampage works well for extra damage. Though I'd personally go with Multikill Clip.
-Recommended MW: Range. tags:pve,mnk
+//notes: A Scout Rifle that both feels and looks very good. Note test 1
+//Arrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice.
+//Both Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed.
+//Rapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun.
+//Demolitionist is good for those of you who wish to spec into grenade builds while Multikill Clip and Rampage works well for extra damage. Though I'd personally go with Multikill Clip.
+//Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3523296417
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,2458213969
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3425386926
