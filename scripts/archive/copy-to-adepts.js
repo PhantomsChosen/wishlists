@@ -6,7 +6,7 @@
 const fs = require('fs');
 const cloneDeep = require('lodash.clonedeep');
 
-const adeptMap = require("../maps/adept-map.json");
+const adeptMap = require("../../maps/adept-map.json");
 const wishlist = require("../lists/hama-rolls-s15-named.json");
 
 const noNameList = [];

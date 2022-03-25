@@ -1,4 +1,4 @@
-title:Basic PvE Weapons 2022.03.24
+title:Basic_PvE_Weapons_2022.03.24.2
 description:Made by Hama, assisted by Ranthalos and Meteor w/ technical stuff
 
 // Arctic Haze - Arctic Haze (pve,mnk)
@@ -86,12 +86,7 @@ dimwishlist:item=235827225&perks=1926090092,1968497646,247725512,124408337
 
 
 // Survivor's Epitaph - Survivors Epitaph (pve,mnk)
-//notes: 180s are generally not considered to be in a great spot, but that doesn't mean they don't have some solid rolls going for them.
-Hammerforged and Smallbore both provides the stats you're looking for from a barrel.
-High-Cal is nice for extra flinch and Light Mag provides a nice boost to both Range and Reload.
-Rapid Hit works very well on this archetype as it provides both a good chunk of Stability and Reload, though you can make do with Surplus or Outlaw depending on your preferences and play style.
-One For All and Multikill Clip are both good options aimed at different types of activities, with OFA being preferred for activities where you can't proc MKC as often.
-Recommended MW: Range  tags:pve,mnk
+//notes: 180s are generally not considered to be in a great spot, but that doesn't mean they don't have some solid rolls going for them. Hammerforged and Smallbore both provides the stats you're looking for from a barrel. High-Cal is nice for extra flinch and Light Mag provides a nice boost to both Range and Reload. Rapid Hit works very well on this archetype as it provides both a good chunk of Stability and Reload, though you can make do with Surplus or Outlaw depending on your preferences and play style. One For All and Multikill Clip are both good options aimed at different types of activities, with OFA being preferred for activities where you can't proc MKC as often. Recommended MW: Range tags:pve,mnk
 dimwishlist:item=310708513&perks=1482024992,1561002382,247725512,4049631843
 dimwishlist:item=310708513&perks=1482024992,1561002382,247725512,2458213969
 dimwishlist:item=310708513&perks=1482024992,679225683,247725512,4049631843
@@ -135,11 +130,7 @@ dimwishlist:item=310708513&perks=1840239774,1087426260,247725512,2458213969
 
 
 // The Palindrome - The Palindrome (god-pve,pve,mnk)
-//notes: Personal Recommendation
-Hammerforged and Smallbore are both good options.
-High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.
-Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.
-Recommended MW: Range or Reload tags:god-pve,pve,mnk
+//notes: Personal Recommendation Hammerforged and Smallbore are both good options. High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields. Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column. Recommended MW: Range or Reload tags:god-pve,pve,mnk
 dimwishlist:item=432476743&perks=1482024992,1561002382,1583705720,4049631843
 dimwishlist:item=432476743&perks=1482024992,1968497646,1583705720,4049631843
 dimwishlist:item=432476743&perks=3250034553,1561002382,1583705720,4049631843
@@ -147,10 +138,7 @@ dimwishlist:item=432476743&perks=3250034553,1968497646,1583705720,4049631843
 
 
 // The Palindrome - The Palindrome (pve,mnk)
-//notes: Hammerforged and Smallbore are both good options.
-High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.
-Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.
-Recommended MW: Range or Reload tags:pve,mnk
+//notes: Hammerforged and Smallbore are both good options. High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields. Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column. Recommended MW: Range or Reload tags:pve,mnk
 dimwishlist:item=432476743&perks=1482024992,1561002382,1168162263,4049631843
 dimwishlist:item=432476743&perks=1482024992,1561002382,3643424744,4049631843
 dimwishlist:item=432476743&perks=1482024992,1968497646,1168162263,4049631843
@@ -162,11 +150,7 @@ dimwishlist:item=432476743&perks=3250034553,1968497646,3643424744,4049631843
 
 
 // Duty Bound - Duty Bound (god-pve,pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.
-As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.
-This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.
-Recommended MW: Range. tags:god-pve,pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option. As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All. This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value. Recommended MW: Range. tags:god-pve,pve,mnk
 dimwishlist:item=435216110&perks=839105230,3142289711,1583705720,4049631843
 dimwishlist:item=435216110&perks=839105230,3230963543,1583705720,4049631843
 dimwishlist:item=435216110&perks=839105230,106909392,1583705720,4049631843
@@ -185,11 +169,7 @@ dimwishlist:item=435216110&perks=1840239774,106909392,1583705720,4049631843
 
 
 // Duty Bound - Duty Bound (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.
-As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.
-This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option. As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All. This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=435216110&perks=839105230,3142289711,1428297954,1546637391
 dimwishlist:item=435216110&perks=839105230,3142289711,1428297954,4049631843
 dimwishlist:item=435216110&perks=839105230,3230963543,1428297954,1546637391
@@ -223,11 +203,7 @@ dimwishlist:item=435216110&perks=1840239774,106909392,1428297954,4049631843
 
 
 // Duty Bound - Duty Bound (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.
-As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.
-This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option. As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All. This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=435216110&perks=839105230,3142289711,1583705720,1546637391
 dimwishlist:item=435216110&perks=839105230,3230963543,1583705720,1546637391
 dimwishlist:item=435216110&perks=839105230,106909392,1583705720,1546637391
@@ -246,38 +222,22 @@ dimwishlist:item=435216110&perks=1840239774,106909392,1583705720,1546637391
 
 
 // The Last Breath - The Last Breath (god-pve,pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.
-For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.
-Interesting roll might be Demolitionist + Osmosis if you're looking to build craft.
-Recommended MW: Range. tags:god-pve,pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions. For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All. Interesting roll might be Demolitionist + Osmosis if you're looking to build craft. Recommended MW: Range. tags:god-pve,pve,mnk
 dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,11612903
 
 
 // The Last Breath - The Last Breath (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.
-For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.
-Interesting roll might be Demolitionist + Osmosis if you're looking to build craft.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions. For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All. Interesting roll might be Demolitionist + Osmosis if you're looking to build craft. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,11612903
 
 
 // The Last Breath - The Last Breath (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.
-For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.
-Interesting roll might be Demolitionist + Osmosis if you're looking to build craft.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions. For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All. Interesting roll might be Demolitionist + Osmosis if you're looking to build craft. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,4049631843
 
 
 // The Last Breath - The Last Breath (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions.
-For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All.
-Interesting roll might be Demolitionist + Osmosis if you're looking to build craft.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. High-Cal is nice for extra flinch and Light Mag is nice for the combination of extra Range and Reload, though Armor Piercing is also viable if you're using this against Barrier Champions. For the grenade enthusiasts out there this weapon can roll the Demolitionist and Adrenaline Junkie combination, while others will see the appeal of Subsistence and/or One For All. Interesting roll might be Demolitionist + Osmosis if you're looking to build craft. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,4049631843
 
 
@@ -382,9 +342,7 @@ dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,3523296417
 
 
 // Hollow Words - Hollow Words (pve,mnk)
-//notes: A weapon from Arrivals that is now only available from Dares and isn't really worthwhile unless you have the specific roll of Feeding Frenzy and Vorpal Weapon.
-Fluted Barrel or Arrowhead Brake are solid options and Liquid Coils or Enhanced Battery for second column.
-I would recommend just farming for a Plug One over this though as it is way easier to get a solid roll on it and is way easier to obtain. tags:pve,mnk
+//notes: A weapon from Arrivals that is now only available from Dares and isn't really worthwhile unless you have the specific roll of Feeding Frenzy and Vorpal Weapon. Fluted Barrel or Arrowhead Brake are solid options and Liquid Coils or Enhanced Battery for second column. I would recommend just farming for a Plug One over this though as it is way easier to get a solid roll on it and is way easier to obtain. tags:pve,mnk
 dimwishlist:item=607191995&perks=839105230,1687452232,2779035018,1546637391
 dimwishlist:item=607191995&perks=839105230,689005463,2779035018,1546637391
 dimwishlist:item=607191995&perks=839105230,2680121939,2779035018,1546637391
@@ -403,12 +361,7 @@ dimwishlist:item=607191995&perks=3250034553,2680121939,2779035018,1546637391
 
 
 // Forbearance - Forbearance (god-pve,pve,mnk)
-//notes: Chain Reaction on a Wave Frame oh boi.
-
-This would be my recommended roll for this weapon as it has a lot of fun potential for ad clear and is just very synergistic with the frame itself.
-Quick Launch is solid while Linear Compensator and Smart Drift Control are also good options.
-High Velocity Rounds is your go to on Wave Frames.
-Ambitious Assassin stands as a solid Special GL perk in general, but with the addition of Stats For All that's also a solid option that meshes with a Chain Reaction roll very well. tags:god-pve,pve,mnk
+//notes: Chain Reaction on a Wave Frame oh boi. This would be my recommended roll for this weapon as it has a lot of fun potential for ad clear and is just very synergistic with the frame itself. Quick Launch is solid while Linear Compensator and Smart Drift Control are also good options. High Velocity Rounds is your go to on Wave Frames. Ambitious Assassin stands as a solid Special GL perk in general, but with the addition of Stats For All that's also a solid option that meshes with a Chain Reaction roll very well. tags:god-pve,pve,mnk
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,598607952
 dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
@@ -444,13 +397,7 @@ dimwishlist:item=613334176&perks=3809316345,2822142346,1409206216,598607952
 
 
 // Forbearance - Forbearance (pve,mnk)
-//notes: The Raid wave frame has some solid rolls overall.
-
-Quick Launch is solid while Linear Compensator and Smart Drift Control are also good options.
-High Velocity Rounds good.
-Ambitious Assassin and Stats For All are both solid options depending on what you prefer.
-Golden Tricorn would solely be if you're running an Arc Subclass, otherwise you'd go with One For All or Chain Reaction here. Personally I'd prefer Chain Reaction, but One For All is still a solid perk.
-Recommended MW: Handling, Reload Speed or Velocity. tags:pve,mnk
+//notes: The Raid wave frame has some solid rolls overall. Quick Launch is solid while Linear Compensator and Smart Drift Control are also good options. High Velocity Rounds good. Ambitious Assassin and Stats For All are both solid options depending on what you prefer. Golden Tricorn would solely be if you're running an Arc Subclass, otherwise you'd go with One For All or Chain Reaction here. Personally I'd prefer Chain Reaction, but One For All is still a solid perk. Recommended MW: Handling, Reload Speed or Velocity. tags:pve,mnk
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2610012052
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,4290541820
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,4049631843
@@ -518,12 +465,7 @@ dimwishlist:item=613334176&perks=3809316345,2822142346,1409206216,859780267
 
 
 // Falling Guillotine - Falling Guillotine (god-pve,pve,mnk)
-//notes: Along with Razor's Edge the best legendary Sword for DPS right now.
-Generally you want Jagged Edge for the extra Impact, with Honed Edge being the second choice if Jagged isn't available.
-While Swordmaster's Guard is the best one, as long as it's not Heavy Guard you're generally fine.
-For DPS you'll want Relentless Strikes, but Tireless works fine for just killing normal ads.
-Whirlwind Blade is your go to for sustained DPS, but Vorpal is better for immediate burst DPS. In the end both are solid options.
-Recommended MW: Impact. tags:god-pve,pve,mnk
+//notes: Along with Razor's Edge the best legendary Sword for DPS right now. Generally you want Jagged Edge for the extra Impact, with Honed Edge being the second choice if Jagged isn't available. While Swordmaster's Guard is the best one, as long as it's not Heavy Guard you're generally fine. For DPS you'll want Relentless Strikes, but Tireless works fine for just killing normal ads. Whirlwind Blade is your go to for sustained DPS, but Vorpal is better for immediate burst DPS. In the end both are solid options. Recommended MW: Impact. tags:god-pve,pve,mnk
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130
 dimwishlist:item=614426548&perks=3666208348,599007201,1749209109,3913600130
@@ -533,8 +475,7 @@ dimwishlist:item=614426548&perks=2827049491,599007201,1749209109,3913600130
 
 
 // Found Verdict (Timelost) - Found Verdict (Timelost) (god-pvp,pvp,mnk)
-//notes: return test - Special Mention: Amazing PvP roll. 
-tags:god-pvp,pvp,mnk
+//notes: Special Mention: Amazing PvP roll. tags:god-pvp,pvp,mnk
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
 
@@ -939,11 +880,7 @@ dimwishlist:item=768621510&perks=1482024992,689005463,2014892510,617966211
 
 
 // Gnawing Hunger - Gnawing Hunger (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Fluted would be my second choice though.
-Accurized Rounds and Flared Magwell are both solid options for mags, it just comes down to if you want to push your Range slightly further or if you want slightly faster Reload Speed.
-Subsistence is generally the sought after perk in the third column.
-Multikill Clip and Demolitionist are both very good options for your fourth column perks, but Kill Clip, Rampage and Swashbuckler aren't bad options either depending on playstyle.
-Recommended MW: Range tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Fluted would be my second choice though. Accurized Rounds and Flared Magwell are both solid options for mags, it just comes down to if you want to push your Range slightly further or if you want slightly faster Reload Speed. Subsistence is generally the sought after perk in the third column. Multikill Clip and Demolitionist are both very good options for your fourth column perks, but Kill Clip, Rampage and Swashbuckler aren't bad options either depending on playstyle. Recommended MW: Range tags:pve,mnk
 dimwishlist:item=821154603&perks=839105230,3142289711,1820235745,2458213969
 dimwishlist:item=821154603&perks=839105230,3142289711,1820235745,3523296417
 dimwishlist:item=821154603&perks=839105230,3142289711,1820235745,3425386926
@@ -1570,12 +1507,8 @@ dimwishlist:item=927567426&perks=1482024992,3230963543,2840833776,4049631843
 dimwishlist:item=927567426&perks=1482024992,3230963543,2840833776,859780267
 
 
-// Cataclysmic - Cataclysmic (pve,mnk,god-pve)
-//notes: A craftable Raid LFR that I would highly recommend getting.
-
-Arrowhead Brake is my recommendation here, but Fluted Barrel is also a good option.
-Enhanced Battery makes you hit 6 in the mag which is what you want when using Fourth Times the Charm, you do not want 7 in the mag as it increases the amount of shots needed to proc Focused Fury from 3 to 4.
-Recommended MW: Handling or Range tags:pve,mnk,god-pve
+// Cataclysmic - Cataclysmic (god-pve,pve,mnk)
+//notes: A craftable Raid LFR that I would highly recommend getting. Arrowhead Brake is my recommendation here, but Fluted Barrel is also a good option. Enhanced Battery makes you hit 6 in the mag which is what you want when using Fourth Times the Charm, you do not want 7 in the mag as it increases the amount of shots needed to proc Focused Fury from 3 to 4. Recommended MW: Handling or Reload Speed. tags:god-pve,pve,mnk
 dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,2896038713
 dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,2402480669
 dimwishlist:item=999767358&perks=839105230,2680121939,848860060,2896038713
@@ -1599,12 +1532,7 @@ dimwishlist:item=999767358&perks=3250034553,2680121939,848860060,2402480669
 
 
 // Perses-D - Perses-D (pve,mnk)
-//notes: I've never really liked the feel of 150 rpm Scout Rifles until this one came along and a good amount of people I've talked to seem to share this sentiment.
-Arrowhead Brake will turn your 74 base recoil into 100, which is pretty good value if you happen to get that. Fluted is a good second option though.
-With the high base Range of this gun (like 90m), accurized doesn't really offer much so I'd prefer Flared Magwell and possibly Tactical Mag as a second choice.
-Rapid Hit to me is one of the (if not the) best perk to have on a Scout Rifle as it gives you so much in terms of Reload Speed and Stability.
-Explosive Payload is a generally good damage perk option on a Scout, but since this is a Stasis one it can also roll Headstone if you're into that.
-Recommended MW: Handling  tags:pve,mnk
+//notes: I've never really liked the feel of 150 rpm Scout Rifles until this one came along and a good amount of people I've talked to seem to share this sentiment. Arrowhead Brake will turn your 74 base recoil into 100, which is pretty good value if you happen to get that. Fluted is a good second option though. With the high base Range of this gun (like 90m), accurized doesn't really offer much so I'd prefer Flared Magwell and possibly Tactical Mag as a second choice. Rapid Hit to me is one of the (if not the) best perk to have on a Scout Rifle as it gives you so much in terms of Reload Speed and Stability. Explosive Payload is a generally good damage perk option on a Scout, but since this is a Stasis one it can also roll Headstone if you're into that. Recommended MW: Handling tags:pve,mnk
 dimwishlist:item=1019000888&perks=839105230,3142289711,247725512,124408337,1607056502
 dimwishlist:item=1019000888&perks=839105230,3142289711,247725512,3038247973,1607056502
 dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,124408337,1607056502
@@ -1648,12 +1576,7 @@ dimwishlist:item=1019000888&perks=3250034553,1087426260,247725512,3038247973,160
 
 
 // The Comedian - The Comedian (pve,mnk)
-//notes: For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine.
-For PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either.
-Aggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly.
-Subsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh).
-Vorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds.
-Recommended MW: Range or Handling tags:pve,mnk
+//notes: For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine. For PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either. Aggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly. Subsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh). Vorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds. Recommended MW: Range or Handling tags:pve,mnk
 dimwishlist:item=1028582252&perks=1047830412,3142289711,1556840489,1546637391
 dimwishlist:item=1028582252&perks=1047830412,3142289711,1556840489,11612903
 dimwishlist:item=1028582252&perks=1047830412,3142289711,2621346526,1546637391
@@ -1905,11 +1828,7 @@ dimwishlist:item=1107446438&perks=3250034553,3142289711,3700496672,4104185692
 
 
 // Duty Bound (Adept) - Duty Bound (Adept) (god-pve,pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.
-As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.
-This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.
-Recommended MW: Range. tags:god-pve,pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option. As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All. This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value. Recommended MW: Range. tags:god-pve,pve,mnk
 dimwishlist:item=1135050595&perks=839105230,3142289711,1583705720,4049631843
 dimwishlist:item=1135050595&perks=839105230,3230963543,1583705720,4049631843
 dimwishlist:item=1135050595&perks=839105230,106909392,1583705720,4049631843
@@ -1928,11 +1847,7 @@ dimwishlist:item=1135050595&perks=1840239774,106909392,1583705720,4049631843
 
 
 // Duty Bound (Adept) - Duty Bound (Adept) (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.
-As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.
-This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option. As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All. This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=1135050595&perks=839105230,3142289711,1428297954,1546637391
 dimwishlist:item=1135050595&perks=839105230,3142289711,1428297954,4049631843
 dimwishlist:item=1135050595&perks=839105230,3230963543,1428297954,1546637391
@@ -1966,11 +1881,7 @@ dimwishlist:item=1135050595&perks=1840239774,106909392,1428297954,4049631843
 
 
 // Duty Bound (Adept) - Duty Bound (Adept) (pve,mnk)
-//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option.
-Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option.
-As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All.
-This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value.
-Recommended MW: Range. tags:pve,mnk
+//notes: I'm convinced Arrowhead Brake is amazing on all Auto Rifles with a lower base Recoil of 80, which most of them have and even for the ones above 80 it's a very viable option. Accurized Rounds is nice to have due to you already getting a good chunk of Reload from your third column perk to push your Range slightly further, but Flared Magwell is never a bad option. As with 720rpm Auto Rifles I think 600rpm ones also have very good synergy with the Stats For All + One For All combination and this is another one that can roll that. Perpetual Motion is also a good option for those who prefer that and some might prefer the reliability of Vorpal Weapon over One For All. This weapon can also roll Triple Tap along with Fourth Times the Charm if you want max meme value. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=1135050595&perks=839105230,3142289711,1583705720,1546637391
 dimwishlist:item=1135050595&perks=839105230,3230963543,1583705720,1546637391
 dimwishlist:item=1135050595&perks=839105230,106909392,1583705720,1546637391
@@ -2422,6 +2333,46 @@ dimwishlist:item=1248372789&perks=4090651448,106909392,1685378950,4049631843
 dimwishlist:item=1248372789&perks=4090651448,106909392,1685378950,859780267
 
 
+// IKELOS_SR_v1.0.2 - IKELOS_SR_v1.0.2 (pve,mnk)
+//notes: Good DPS Sniper for it's time, now mostly replaced by Father's Sins. Arrowhead Brake and Fluted Barrel are solid options and you'd want Tactical Mag to get the mag size up to 7. Appended and Extended also works, but at lower benefit. Triple Tap and High Impact Reserves are your go to for DPS with Fourth Times the Charm also being okay. Recommended MW: Handling or Range. tags:pve,mnk
+dimwishlist:item=1253087083&perks=839105230,106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=839105230,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=839105230,1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=839105230,1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=839105230,2420895100,3400784728,2213355989
+dimwishlist:item=1253087083&perks=839105230,2420895100,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1840239774,106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1840239774,1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1840239774,2420895100,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1840239774,2420895100,1354429876,2213355989
+dimwishlist:item=1253087083&perks=4090651448,106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=4090651448,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=4090651448,1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=4090651448,1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=4090651448,2420895100,3400784728,2213355989
+dimwishlist:item=1253087083&perks=4090651448,2420895100,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1482024992,106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1482024992,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1482024992,1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1482024992,1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1482024992,2420895100,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1482024992,2420895100,1354429876,2213355989
+dimwishlist:item=1253087083&perks=3250034553,106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=3250034553,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=3250034553,1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=3250034553,1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=3250034553,2420895100,3400784728,2213355989
+dimwishlist:item=1253087083&perks=3250034553,2420895100,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1392496348,106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1392496348,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1392496348,1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1392496348,1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1392496348,2420895100,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1392496348,2420895100,1354429876,2213355989
+
+
 // Silicon Neuroma (Adept) - Silicon Neuroma (Adept) ()
 dimwishlist:item=1387987271&perks=839105230,1087426260,3400784728,1771339417
 dimwishlist:item=1387987271&perks=1840239774,1087426260,3400784728,1771339417
@@ -2530,11 +2481,7 @@ dimwishlist:item=1399243961&perks=1840239774,1687452232,3400784728,1771339417
 
 
 // The Palindrome (Adept) - The Palindrome (Adept) (god-pve,pve,mnk)
-//notes: Personal Recommendation
-Hammerforged and Smallbore are both good options.
-High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.
-Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.
-Recommended MW: Range or Reload tags:god-pve,pve,mnk
+//notes: Personal Recommendation Hammerforged and Smallbore are both good options. High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields. Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column. Recommended MW: Range or Reload tags:god-pve,pve,mnk
 dimwishlist:item=1481892490&perks=1482024992,1561002382,1583705720,4049631843
 dimwishlist:item=1481892490&perks=1482024992,1968497646,1583705720,4049631843
 dimwishlist:item=1481892490&perks=3250034553,1561002382,1583705720,4049631843
@@ -2542,10 +2489,7 @@ dimwishlist:item=1481892490&perks=3250034553,1968497646,1583705720,4049631843
 
 
 // The Palindrome (Adept) - The Palindrome (Adept) (pve,mnk)
-//notes: Hammerforged and Smallbore are both good options.
-High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields.
-Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column.
-Recommended MW: Range or Reload tags:pve,mnk
+//notes: Hammerforged and Smallbore are both good options. High-Cal is nice for extra flinch and Armor Piercing rounds gives a dmg buff against shields. Personally I think Stats For All and One For All is the perk combo you're looking for, but Outlaw and Overflow are also nice options for 3rd column and Rampage is still good for 4th Column. Recommended MW: Range or Reload tags:pve,mnk
 dimwishlist:item=1481892490&perks=1482024992,1561002382,1168162263,4049631843
 dimwishlist:item=1481892490&perks=1482024992,1561002382,3643424744,4049631843
 dimwishlist:item=1481892490&perks=1482024992,1968497646,1168162263,4049631843
@@ -2751,6 +2695,50 @@ dimwishlist:item=1526296434&perks=4090651448,1885400500,2014892510,4082225868
 dimwishlist:item=1526296434&perks=4090651448,1885400500,2014892510,1161469972
 
 
+// Wastelander M5 - Wastelander M5 (pve,mnk)
+//notes: This is a shotgun you'd mostly get for 1-2 Punch purposes. Full Choke is preferred, though not required to make this work. Assault Mag or Accurized Rounds are your best options, but also not important. Perpetual Motion and Slideshot both supplement what you're trying to do well and should be considered. One-Two Punch is what you're aiming for here and is the bread and butter of some builds. Recommended MW: Handling or Range. tags:pve,mnk
+dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1047830412,679225683,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,679225683,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1047830412,106909392,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,106909392,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1047830412,1087426260,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,1087426260,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1300023272,791862061,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1300023272,791862061,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1300023272,3142289711,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1300023272,3142289711,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1300023272,679225683,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1300023272,679225683,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1300023272,106909392,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1300023272,106909392,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1300023272,1087426260,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1300023272,1087426260,3161816588,2679249093
+dimwishlist:item=1679868061&perks=4090651448,791862061,1428297954,2679249093
+dimwishlist:item=1679868061&perks=4090651448,791862061,3161816588,2679249093
+dimwishlist:item=1679868061&perks=4090651448,3142289711,1428297954,2679249093
+dimwishlist:item=1679868061&perks=4090651448,3142289711,3161816588,2679249093
+dimwishlist:item=1679868061&perks=4090651448,679225683,1428297954,2679249093
+dimwishlist:item=1679868061&perks=4090651448,679225683,3161816588,2679249093
+dimwishlist:item=1679868061&perks=4090651448,106909392,1428297954,2679249093
+dimwishlist:item=1679868061&perks=4090651448,106909392,3161816588,2679249093
+dimwishlist:item=1679868061&perks=4090651448,1087426260,1428297954,2679249093
+dimwishlist:item=1679868061&perks=4090651448,1087426260,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1482024992,791862061,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1482024992,791862061,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1482024992,3142289711,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1482024992,679225683,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1482024992,679225683,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1482024992,106909392,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1482024992,106909392,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1482024992,1087426260,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1482024992,1087426260,3161816588,2679249093
+
+
 // Escape Velocity - Escape Velocity ()
 dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,1546637391
 dimwishlist:item=1786797708&perks=663495154,3230963543,3643424744,1546637391
@@ -2766,14 +2754,7 @@ dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,1546637391
 
 
 // Razor's Edge - Razors Edge (god-pve,pve,mnk)
-//notes: Iron Banner Sword with potential DPS Edition.
-
-Jagged Edge is normally your go to for Swords, Honed Edge is a fine second choice though and you'll usually have one of these.
-Swordmaster's Guard is your best option, but as long as you're avoiding Heavy Guard you're fine.
-Relentless Strikes is very good for when you're consistently hitting targets, while Tireless Blade is good for when you're just killing ads.
-Relentless is your DPS go to option though.
-Frenzy is an interesting option on Swords now that Vorpal has been nerfed to be 10% on Power weapons and is definitely worth considering as Frenzy will be procced in many situations where you're using a Sword for DPS.
-Recommended MW: Impact. tags:god-pve,pve,mnk
+//notes: Iron Banner Sword with potential DPS Edition. Jagged Edge is normally your go to for Swords, Honed Edge is a fine second choice though and you'll usually have one of these. Swordmaster's Guard is your best option, but as long as you're avoiding Heavy Guard you're fine. Relentless Strikes is very good for when you're consistently hitting targets, while Tireless Blade is good for when you're just killing ads. Relentless is your DPS go to option though. Frenzy is an interesting option on Swords now that Vorpal has been nerfed to be 10% on Power weapons and is definitely worth considering as Frenzy will be procced in many situations where you're using a Sword for DPS. Recommended MW: Impact. tags:god-pve,pve,mnk
 dimwishlist:item=1796949035&perks=3666208348,269888150,1749209109,4104185692,3989629871
 dimwishlist:item=1796949035&perks=3666208348,52780822,1749209109,4104185692,3989629871
 dimwishlist:item=1796949035&perks=3666208348,599007201,1749209109,4104185692,3989629871
@@ -2783,20 +2764,49 @@ dimwishlist:item=1796949035&perks=2827049491,599007201,1749209109,4104185692,398
 
 
 // Razor's Edge - Razors Edge (pve,mnk)
-//notes: Iron Banner Sword with potential, AD clear edition.
-
-Jagged Edge is normally your go to for Swords, Honed Edge is a fine second choice though and you'll usually have one of these.
-Swordmaster's Guard is your best option, but as long as you're avoiding Heavy Guard you're fine.
-Relentless Strikes is very good for when you're consistently hitting targets, while Tireless Blade is good for when you're just killing ads.
-Tireless Blade is your go to in situations where you're just killing normal ads, though in casual scenario's you can also mess around with Unrelenting if you want.
-Frenzy is an interesting option on Swords now that Vorpal has been nerfed to be 10% on Power weapons and is definitely worth considering as Frenzy will be procced in many situations where you're using a Sword. Chain Reaction also has potential for some fun ad clear in casual content.
-Recommended MW: Impact. tags:pve,mnk
+//notes: Iron Banner Sword with potential, AD clear edition. Jagged Edge is normally your go to for Swords, Honed Edge is a fine second choice though and you'll usually have one of these. Swordmaster's Guard is your best option, but as long as you're avoiding Heavy Guard you're fine. Relentless Strikes is very good for when you're consistently hitting targets, while Tireless Blade is good for when you're just killing ads. Tireless Blade is your go to in situations where you're just killing normal ads, though in casual scenario's you can also mess around with Unrelenting if you want. Frenzy is an interesting option on Swords now that Vorpal has been nerfed to be 10% on Power weapons and is definitely worth considering as Frenzy will be procced in many situations where you're using a Sword. Chain Reaction also has potential for some fun ad clear in casual content. Recommended MW: Impact. tags:pve,mnk
 dimwishlist:item=1796949035&perks=3666208348,269888150,2590710093,2396489472,3989629871
 dimwishlist:item=1796949035&perks=3666208348,599007201,2590710093,2396489472,3989629871
 dimwishlist:item=1796949035&perks=3666208348,52780822,2590710093,2396489472,3989629871
 dimwishlist:item=1796949035&perks=2827049491,269888150,2590710093,2396489472,3989629871
 dimwishlist:item=1796949035&perks=2827049491,599007201,2590710093,2396489472,3989629871
 dimwishlist:item=1796949035&perks=2827049491,52780822,2590710093,2396489472,3989629871
+
+
+// Seventh Seraph CQC-12 - Seventh Seraph CQC-12 (pve,mnk)
+//notes: A fun lightweight shotgun for casual use. Full Choke, Barrel Shroud and Corkscrew are all good options here. Assault Mag and Accurized Rounds are both, my preference is usually Assault Mag in this case though to allow slightly faster follow up shots. Slideshot and Auto-Loading Holster are both viable options and your preference will depend on your play style. Vorpal will be your go to option for damage. Recommended MW: Range. tags:pve,mnk
+dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1047830412,791862061,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1047830412,679225683,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1047830412,679225683,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1047830412,106909392,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1047830412,106909392,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1300023272,791862061,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1300023272,791862061,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1300023272,3142289711,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1300023272,3142289711,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1300023272,679225683,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1300023272,679225683,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1300023272,106909392,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1300023272,106909392,3300816228,1546637391
+dimwishlist:item=1821724780&perks=4090651448,791862061,3161816588,1546637391
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391
+dimwishlist:item=1821724780&perks=4090651448,3142289711,3161816588,1546637391
+dimwishlist:item=1821724780&perks=4090651448,3142289711,3300816228,1546637391
+dimwishlist:item=1821724780&perks=4090651448,679225683,3161816588,1546637391
+dimwishlist:item=1821724780&perks=4090651448,679225683,3300816228,1546637391
+dimwishlist:item=1821724780&perks=4090651448,106909392,3161816588,1546637391
+dimwishlist:item=1821724780&perks=4090651448,106909392,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1482024992,791862061,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1482024992,3142289711,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1482024992,3142289711,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1482024992,679225683,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1482024992,679225683,3300816228,1546637391
+dimwishlist:item=1821724780&perks=1482024992,106909392,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,1546637391
 
 
 // The Hothead (Adept) - The Hothead (Adept) ()
@@ -3004,9 +3014,7 @@ dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942
 
 
 // Truthteller - Truthteller (god-pve,pve,mnk)
-//notes: For Blinding Grenades you're usually fine with any barrel as long as it's not a negative to your stats, but having additional Handling and Velocity is always nice, which makes Quick Launch or Smart Drift Control nice to have.
-Auto-Loading synergize very well with what you're using Blinding Grenades for, but if you don't happen to have it then Field Prep is an okay substitute, though you'll have to manually reload.
-Demolitionist is a nice supplement in case you need an on demand extra Blinding Grenade or just happen to pick up random kills along the way to charge up your grenades. Disruption Break is nice to have for Match Game content as it allows you to break Void Shields and get a damage boost with your kinetic weapons afterwards while Auto-Loading is reloading your GL. tags:god-pve,pve,mnk
+//notes: For Blinding Grenades you're usually fine with any barrel as long as it's not a negative to your stats, but having additional Handling and Velocity is always nice, which makes Quick Launch or Smart Drift Control nice to have. Auto-Loading synergize very well with what you're using Blinding Grenades for, but if you don't happen to have it then Field Prep is an okay substitute, though you'll have to manually reload. Demolitionist is a nice supplement in case you need an on demand extra Blinding Grenade or just happen to pick up random kills along the way to charge up your grenades. Disruption Break is nice to have for Match Game content as it allows you to break Void Shields and get a damage boost with your kinetic weapons afterwards while Auto-Loading is reloading your GL. tags:god-pve,pve,mnk
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,3523296417
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515
 dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,3523296417
@@ -3026,10 +3034,7 @@ dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,1683379515
 
 
 // Truthteller - Truthteller (god-pve,pve,mnk)
-//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.
-Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.
-Feeding Frenzy rewards chaining kills and Multikill Clip is a nice synergy here as it allows you to chain kills easier. Demolitionist is also nice if you're more inclined to use your grenades.
-Recommended MW: Velocity tags:god-pve,pve,mnk
+//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage. Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here. Feeding Frenzy rewards chaining kills and Multikill Clip is a nice synergy here as it allows you to chain kills easier. Demolitionist is also nice if you're more inclined to use your grenades. Recommended MW: Velocity tags:god-pve,pve,mnk
 dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,2458213969
 dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,3523296417
 dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,2458213969
@@ -3041,10 +3046,7 @@ dimwishlist:item=1946491241&perks=3809316345,3301904089,2779035018,3523296417
 
 
 // Truthteller - Truthteller (pve,mnk)
-//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.
-Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.
-Auto-Loading is nice to have, but doesn't really synergize well with any other perk than Demolitionist and maybe Disruption Break here, but I see  Disruption Break as more of a Blinding options than when you're using Spike.
-Recommended MW: Velocity. tags:pve,mnk
+//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage. Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here. Auto-Loading is nice to have, but doesn't really synergize well with any other perk than Demolitionist and maybe Disruption Break here, but I see  Disruption Break as more of a Blinding options than when you're using Spike. Recommended MW: Velocity. tags:pve,mnk
 dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,3523296417
 dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417
 dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,3523296417
@@ -4306,13 +4308,204 @@ dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,3824105627
 dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,11612903
 
 
+// IKELOS_SMG_v1.0.2 - IKELOS_SMG_v1.0.2 (pve,mnk)
+//notes: A solid aggressive SMG from when Warmind Cells used to be meta. The SMG already has pretty high Handling so I prefer to go for Hammerforged here to try and get some extra Range, with Smallbore being a solid second option. Seraph Rounds give a bonus to Zoom, so this is the best option by far in terms of Mag, but you can opt into Accurized Rounds or Flared Magwell if you didn't end up with Seraph. Subsistence is a solid perk, but you can also opt into Pulse Monitor or Threat Detector if you prefer that. Vorpal is going to be your go to damage perk, while Demolitionist is there if you wish to spec into grenade builds. Disruption Break also exists as an alternative if you're mainly using it to bust Arc Shields then swapping weapons. Recommended MW: Range or Reload Speed. tags:pve,mnk
+dimwishlist:item=2222560548&perks=3250034553,1140096971,1820235745,1546637391
+dimwishlist:item=2222560548&perks=3250034553,1140096971,1820235745,3523296417
+dimwishlist:item=2222560548&perks=3250034553,1140096971,972757866,1546637391
+dimwishlist:item=2222560548&perks=3250034553,1140096971,972757866,3523296417
+dimwishlist:item=2222560548&perks=3250034553,1140096971,4071163871,1546637391
+dimwishlist:item=2222560548&perks=3250034553,1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=3250034553,3142289711,1820235745,1546637391
+dimwishlist:item=2222560548&perks=3250034553,3142289711,1820235745,3523296417
+dimwishlist:item=2222560548&perks=3250034553,3142289711,972757866,1546637391
+dimwishlist:item=2222560548&perks=3250034553,3142289711,972757866,3523296417
+dimwishlist:item=2222560548&perks=3250034553,3142289711,4071163871,1546637391
+dimwishlist:item=2222560548&perks=3250034553,3142289711,4071163871,3523296417
+dimwishlist:item=2222560548&perks=3250034553,3230963543,1820235745,1546637391
+dimwishlist:item=2222560548&perks=3250034553,3230963543,1820235745,3523296417
+dimwishlist:item=2222560548&perks=3250034553,3230963543,972757866,1546637391
+dimwishlist:item=2222560548&perks=3250034553,3230963543,972757866,3523296417
+dimwishlist:item=2222560548&perks=3250034553,3230963543,4071163871,1546637391
+dimwishlist:item=2222560548&perks=3250034553,3230963543,4071163871,3523296417
+dimwishlist:item=2222560548&perks=3250034553,106909392,1820235745,1546637391
+dimwishlist:item=2222560548&perks=3250034553,106909392,1820235745,3523296417
+dimwishlist:item=2222560548&perks=3250034553,106909392,972757866,1546637391
+dimwishlist:item=2222560548&perks=3250034553,106909392,972757866,3523296417
+dimwishlist:item=2222560548&perks=3250034553,106909392,4071163871,1546637391
+dimwishlist:item=2222560548&perks=3250034553,106909392,4071163871,3523296417
+dimwishlist:item=2222560548&perks=3250034553,1087426260,1820235745,1546637391
+dimwishlist:item=2222560548&perks=3250034553,1087426260,1820235745,3523296417
+dimwishlist:item=2222560548&perks=3250034553,1087426260,972757866,1546637391
+dimwishlist:item=2222560548&perks=3250034553,1087426260,972757866,3523296417
+dimwishlist:item=2222560548&perks=3250034553,1087426260,4071163871,1546637391
+dimwishlist:item=2222560548&perks=3250034553,1087426260,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1482024992,1140096971,972757866,1546637391
+dimwishlist:item=2222560548&perks=1482024992,1140096971,972757866,3523296417
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1482024992,3142289711,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1482024992,3142289711,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1482024992,3142289711,972757866,1546637391
+dimwishlist:item=2222560548&perks=1482024992,3142289711,972757866,3523296417
+dimwishlist:item=2222560548&perks=1482024992,3142289711,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1482024992,3142289711,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1482024992,3230963543,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1482024992,3230963543,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1482024992,3230963543,972757866,1546637391
+dimwishlist:item=2222560548&perks=1482024992,3230963543,972757866,3523296417
+dimwishlist:item=2222560548&perks=1482024992,3230963543,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1482024992,3230963543,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1482024992,106909392,972757866,1546637391
+dimwishlist:item=2222560548&perks=1482024992,106909392,972757866,3523296417
+dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1482024992,1087426260,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1482024992,1087426260,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1482024992,1087426260,972757866,1546637391
+dimwishlist:item=2222560548&perks=1482024992,1087426260,972757866,3523296417
+dimwishlist:item=2222560548&perks=1482024992,1087426260,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1482024992,1087426260,4071163871,3523296417
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3523296417
+dimwishlist:item=2222560548&perks=4090651448,1140096971,972757866,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1140096971,972757866,3523296417
+dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=4090651448,3142289711,1820235745,1546637391
+dimwishlist:item=2222560548&perks=4090651448,3142289711,1820235745,3523296417
+dimwishlist:item=2222560548&perks=4090651448,3142289711,972757866,1546637391
+dimwishlist:item=2222560548&perks=4090651448,3142289711,972757866,3523296417
+dimwishlist:item=2222560548&perks=4090651448,3142289711,4071163871,1546637391
+dimwishlist:item=2222560548&perks=4090651448,3142289711,4071163871,3523296417
+dimwishlist:item=2222560548&perks=4090651448,3230963543,1820235745,1546637391
+dimwishlist:item=2222560548&perks=4090651448,3230963543,1820235745,3523296417
+dimwishlist:item=2222560548&perks=4090651448,3230963543,972757866,1546637391
+dimwishlist:item=2222560548&perks=4090651448,3230963543,972757866,3523296417
+dimwishlist:item=2222560548&perks=4090651448,3230963543,4071163871,1546637391
+dimwishlist:item=2222560548&perks=4090651448,3230963543,4071163871,3523296417
+dimwishlist:item=2222560548&perks=4090651448,106909392,1820235745,1546637391
+dimwishlist:item=2222560548&perks=4090651448,106909392,1820235745,3523296417
+dimwishlist:item=2222560548&perks=4090651448,106909392,972757866,1546637391
+dimwishlist:item=2222560548&perks=4090651448,106909392,972757866,3523296417
+dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,1546637391
+dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,3523296417
+dimwishlist:item=2222560548&perks=4090651448,1087426260,1820235745,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1087426260,1820235745,3523296417
+dimwishlist:item=2222560548&perks=4090651448,1087426260,972757866,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1087426260,972757866,3523296417
+dimwishlist:item=2222560548&perks=4090651448,1087426260,4071163871,1546637391
+dimwishlist:item=2222560548&perks=4090651448,1087426260,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1840239774,1140096971,972757866,1546637391
+dimwishlist:item=2222560548&perks=1840239774,1140096971,972757866,3523296417
+dimwishlist:item=2222560548&perks=1840239774,1140096971,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1840239774,1140096971,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1840239774,3142289711,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1840239774,3142289711,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1840239774,3142289711,972757866,1546637391
+dimwishlist:item=2222560548&perks=1840239774,3142289711,972757866,3523296417
+dimwishlist:item=2222560548&perks=1840239774,3142289711,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1840239774,3142289711,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1840239774,3230963543,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1840239774,3230963543,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1840239774,3230963543,972757866,1546637391
+dimwishlist:item=2222560548&perks=1840239774,3230963543,972757866,3523296417
+dimwishlist:item=2222560548&perks=1840239774,3230963543,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1840239774,3230963543,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1840239774,106909392,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1840239774,106909392,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1840239774,106909392,972757866,1546637391
+dimwishlist:item=2222560548&perks=1840239774,106909392,972757866,3523296417
+dimwishlist:item=2222560548&perks=1840239774,106909392,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1840239774,106909392,4071163871,3523296417
+dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,1546637391
+dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,3523296417
+dimwishlist:item=2222560548&perks=1840239774,1087426260,972757866,1546637391
+dimwishlist:item=2222560548&perks=1840239774,1087426260,972757866,3523296417
+dimwishlist:item=2222560548&perks=1840239774,1087426260,4071163871,1546637391
+dimwishlist:item=2222560548&perks=1840239774,1087426260,4071163871,3523296417
+
+
+// Ogma PR6 - Ogma PR6 (god-pve,pve,mnk)
+//notes: One For All and Stats for All is so good on weapons that can reliably proc them. Arrowhead Brake or Fluted Barrel is your go to on most Pulse Rifles. As you're already getting a chunk of stats from Stats For All I'd go with Accurized as my first choice, but having extra Reload off the bat is not a bad option either. Stats For All and One For All synergize really well and is the best roll for this Pulse Rifle in my opinion as it gives you basically everything you want in terms of stats and damage. Recommended MW: Range. tags:god-pve,pve,mnk
+dimwishlist:item=2342054803&perks=839105230,3142289711,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=839105230,106909392,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=839105230,1087426260,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1840239774,3142289711,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1840239774,3230963543,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1840239774,106909392,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1840239774,1087426260,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1482024992,3142289711,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1482024992,3230963543,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1482024992,106909392,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=1482024992,1087426260,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=3250034553,3142289711,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=3250034553,3230963543,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=3250034553,106909392,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=3250034553,1087426260,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=4090651448,3142289711,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=4090651448,3230963543,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=4090651448,106909392,1583705720,4049631843,2839173408
+dimwishlist:item=2342054803&perks=4090651448,1087426260,1583705720,4049631843,2839173408
+
+
+// Ogma PR6 - Ogma PR6 (pve,mnk)
+//notes: The Grenadebuckler combo. Aim for Arrowhead Brake and Fluted as your barrels. For Mag you can either opt into more Range or Reload speed depending on your preferences, I'd personally go for Flared Magwell as my first choice and then Accurized Rounds as my second choice. Demolitionist and Adrenaline Junkie has a big synergy and allows you to maintain a damage boost and reload your gun as well using your grenade ability, while getting grenade ability back by getting kills with your weapon. Recommended MW: Range or Reload Speed. tags:pve,mnk
+dimwishlist:item=2342054803&perks=839105230,3230963543,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=839105230,3142289711,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=839105230,106909392,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=839105230,1087426260,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1840239774,3230963543,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1840239774,3142289711,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1840239774,106909392,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1840239774,1087426260,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1482024992,3230963543,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1482024992,3142289711,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1482024992,106909392,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=1482024992,1087426260,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=3250034553,3230963543,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=3250034553,3142289711,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=3250034553,106909392,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=3250034553,1087426260,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=4090651448,3230963543,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=4090651448,3142289711,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=4090651448,106909392,3523296417,11612903,2839173408
+dimwishlist:item=2342054803&perks=4090651448,1087426260,3523296417,11612903,2839173408
+
+
+// Ogma PR6 - Ogma PR6 (pve,mnk)
+//notes: If you wish to opt into Adrenaline Junkie, but don't want Demolitionist. Arrowhead Brake or Fluted Barrel is your go to on most Pulse Rifles. As you're already getting a chunk of stats from Stats For All I'd go with Accurized as my first choice, but having extra Reload off the bat is not a bad option either. Stats For All is still strong without One For All and can be a good combination with Adrenaline Junkie if you're getting grenade energy from other sources than your weapon perks. If you want your gunplay to feel smoother this might be what you prefer over the alternative. Recommended MW: Range. tags:pve,mnk
+dimwishlist:item=2342054803&perks=839105230,3142289711,1583705720,11612903
+dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,11612903
+dimwishlist:item=2342054803&perks=839105230,106909392,1583705720,11612903
+dimwishlist:item=2342054803&perks=839105230,1087426260,1583705720,11612903
+dimwishlist:item=2342054803&perks=1840239774,3142289711,1583705720,11612903
+dimwishlist:item=2342054803&perks=1840239774,3230963543,1583705720,11612903
+dimwishlist:item=2342054803&perks=1840239774,106909392,1583705720,11612903
+dimwishlist:item=2342054803&perks=1840239774,1087426260,1583705720,11612903
+dimwishlist:item=2342054803&perks=1482024992,3142289711,1583705720,11612903
+dimwishlist:item=2342054803&perks=1482024992,3230963543,1583705720,11612903
+dimwishlist:item=2342054803&perks=1482024992,106909392,1583705720,11612903
+dimwishlist:item=2342054803&perks=1482024992,1087426260,1583705720,11612903
+dimwishlist:item=2342054803&perks=3250034553,3142289711,1583705720,11612903
+dimwishlist:item=2342054803&perks=3250034553,3230963543,1583705720,11612903
+dimwishlist:item=2342054803&perks=3250034553,106909392,1583705720,11612903
+dimwishlist:item=2342054803&perks=3250034553,1087426260,1583705720,11612903
+dimwishlist:item=2342054803&perks=4090651448,3142289711,1583705720,11612903
+dimwishlist:item=2342054803&perks=4090651448,3230963543,1583705720,11612903
+dimwishlist:item=2342054803&perks=4090651448,106909392,1583705720,11612903
+dimwishlist:item=2342054803&perks=4090651448,1087426260,1583705720,11612903
+
+
 // The Comedian (Adept) - The Comedian (Adept) (pve,mnk)
-//notes: For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine.
-For PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either.
-Aggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly.
-Subsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh).
-Vorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds.
-Recommended MW: Range or Handling tags:pve,mnk
+//notes: For high end content I can't say pellet shotguns have been very desirable for a while and this gun is no exception. Though it does have some fun rolls that you can use in the majority of the game and be just fine. For PvE it's kind of hard to go wrong with barrels on a shotgun, although I'd recommended Corkscrew and Barrel Shroud for the benefit of having extra stats, though I wouldn't blame anyone for preferring Full Choke either. Aggressive Shotguns have a pretty low RPM compared to other shotguns so bumping that feel up slightly with Assault Mag is nice, though I'd also say Accurized Rounds are just as good to bump up that range slightly. Subsistence is pretty fun on a shotgun as it basically just allows you to run at the enemy and shoot until you're out of reserves if you're doing content that allows you to do so, but Ensemble is nice for group content for that Reload and Handling boost while Lead From Gold is also there if you feel you're lacking on Ammo. (Kind of want to try out Steady Hands tbh). Vorpal Weapon stands out to me as the best damage option, but Adrenaline Junkie is also a very viable option if you're one to run Grenade builds. Recommended MW: Range or Handling tags:pve,mnk
 dimwishlist:item=2443900757&perks=1047830412,3142289711,1556840489,1546637391
 dimwishlist:item=2443900757&perks=1047830412,3142289711,1556840489,11612903
 dimwishlist:item=2443900757&perks=1047830412,3142289711,2621346526,1546637391
@@ -4952,14 +5145,312 @@ dimwishlist:item=2852052802&perks=1482024992,3230963543,3643424744,3673922083,39
 dimwishlist:item=2852052802&perks=1482024992,3230963543,3643424744,4049631843,3988215619
 
 
-// Succession - Succession (god-pve,pve,mnk)
-//notes: Succession is a really solid PvE Sniper from DSC.
+// Syncopation-53 - Syncopation-53 (pve,mnk)
+//notes: A Stasis craft able Pulse Rifle with a nice feel to it, but a bit lackluster on rolls. Arrowhead Brake and Fluted Barrel are solid options for Pulse Rifles. High Caliber Rounds are nice to stun lock some red bars, but you're not losing much by opting into Light Mag or other options that give Range or Reload Speed either. Outlaw is pretty much the only good choice in your third column, but if you're running Frenzy you might have fun with Enhanced Hip-Fire Grip. Vorpal and Frenzy are your damage options here, but you can opt into Headstone if you're doing Stasis shenanigans. Recommended MW: Range. tags:pve,mnk
+dimwishlist:item=2856514843&perks=839105230,1561002382,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,1561002382,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,679225683,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,3230963543,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=839105230,1968497646,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1561002382,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,679225683,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,3230963543,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1885400500,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1840239774,1968497646,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1561002382,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,679225683,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,3230963543,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1885400500,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=4090651448,1968497646,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1561002382,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,679225683,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1885400500,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=1482024992,1968497646,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1561002382,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,679225683,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,3230963543,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1885400500,1347741687,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1168162263,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1168162263,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1168162263,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1168162263,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1168162263,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1168162263,3007133316,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1347741687,1546637391,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1347741687,3418165135,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1347741687,124408337,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1347741687,1171887445,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1347741687,4104185692,4008116374
+dimwishlist:item=2856514843&perks=3250034553,1968497646,1347741687,3007133316,4008116374
 
-Arrowhead Brake is your go barrel, but Fluted is also a solid choice.
-Here you kinda want Extended Mag so you can reach 5 in the mag when using Backup Mag, otherwise you want Tactical Mag to ensure that you have at least 4 in the mag.
-Reconstruction is amazing as it doubles your mag over time, which ends up being very efficient on a Sniper in both casual content and DPS scenarios.
-Vorpal is your best overall option, but Recombination is also not a bad option.
-Recommended MW: Handling tags:god-pve,pve,mnk
+
+// Succession - Succession (god-pve,pve,mnk)
+//notes: Succession is a really solid PvE Sniper from DSC. Arrowhead Brake is your go barrel, but Fluted is also a solid choice. Here you kinda want Extended Mag so you can reach 5 in the mag when using Backup Mag, otherwise you want Tactical Mag to ensure that you have at least 4 in the mag. Reconstruction is amazing as it doubles your mag over time, which ends up being very efficient on a Sniper in both casual content and DPS scenarios. Vorpal is your best overall option, but Recombination is also not a bad option. Recommended MW: Handling tags:god-pve,pve,mnk
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,1546637391
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,469285294
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391
@@ -5492,9 +5983,7 @@ dimwishlist:item=3281285075&perks=1482024992,106909392,247725512,3425386926
 
 
 // The Long Walk - The Long Walk ()
-//notes: This is a test description
-Please ignore for now
-Pls gib red raid weapons
+//notes: This is a test description Please ignore for now Pls gib red raid weapons
 dimwishlist:item=3326850591&perks=839105230,1087426260,2284787283,1771339417
 dimwishlist:item=3326850591&perks=839105230,1087426260,2621346526,1771339417
 dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,1771339417
@@ -6276,19 +6765,12 @@ dimwishlist:item=3428521585&perks=3250034553,106909392,2938480696,2422968039
 
 
 // Point of the Stag - Point of the Stag (god-pve,pve,mnk)
-//notes: A very good and easily obtainable Arc Precision Bow from the Monument in the Tower.
-Elastic String, Archer's Tempo and Vorpal are all solid on a Bow, it's a bit unlucky on the Arrow though so maybe one day we'll get a better replacement. tags:god-pve,pve,mnk
+//notes: A very good and easily obtainable Arc Precision Bow from the Monument in the Tower. Elastic String, Archer's Tempo and Vorpal are all solid on a Bow, it's a bit unlucky on the Arrow though so maybe one day we'll get a better replacement. tags:god-pve,pve,mnk
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 
 
 // Frozen Orbit - Frozen Orbit (god-pve,pve,mnk)
-//notes: Solid Void Sniper from the Crucible.
-
-Arrowhead Brake is as always a solid option on Sniper Rifles as it bumps up your Recoil Direction while also providing Handling. Fluted Barrel is a solid second option.
-Appended Mag allows you to reach 5 in the Mag with Backup Mag which is the ideal if you're utilizing Triple Tap for max benefit.
-Extended Mag also does this, but at the cost of Reload Speed so it is sub optimal. Tactical Mag allows you to hit 4 in the mag which is fine for normal usage.
-Triple Tap is your best option for DPS scenarios if you have 5 in the mag, for normal usage I'd rather recommend Clown Cartridge or Auto-Loading Holster.
-Vorpal is basically the only good and reliable damage option you have on this weapon. tags:god-pve,pve,mnk
+//notes: Solid Void Sniper from the Crucible. Arrowhead Brake is as always a solid option on Sniper Rifles as it bumps up your Recoil Direction while also providing Handling. Fluted Barrel is a solid second option. Appended Mag allows you to reach 5 in the Mag with Backup Mag which is the ideal if you're utilizing Triple Tap for max benefit. Extended Mag also does this, but at the cost of Reload Speed so it is sub optimal. Tactical Mag allows you to hit 4 in the mag which is fine for normal usage. Triple Tap is your best option for DPS scenarios if you have 5 in the mag, for normal usage I'd rather recommend Clown Cartridge or Auto-Loading Holster. Vorpal is basically the only good and reliable damage option you have on this weapon. tags:god-pve,pve,mnk
 dimwishlist:item=3473290087&perks=839105230,1087426260,2284787283,1546637391
 dimwishlist:item=3473290087&perks=839105230,1087426260,3400784728,1546637391
 dimwishlist:item=3473290087&perks=839105230,1087426260,3300816228,1546637391
@@ -6503,12 +6985,7 @@ dimwishlist:item=3489657138&perks=3809316345,3796465595,3528046508,2275087323
 
 
 // Night Watch - Night Watch (god-pve,pve,mnk)
-//notes: My go to roll for this gun.
-
-Arrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice.
-Both Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed.
-Rapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun.
-Explosive Payload is a nice damage increase that will also help you deal with Barrier Champions easier in the seasons where Anti-Barrier Scout Rifle mods are available.  tags:god-pve,pve,mnk
+//notes: My go to roll for this gun. Arrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice. Both Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed. Rapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun. Explosive Payload is a nice damage increase that will also help you deal with Barrier Champions easier in the seasons where Anti-Barrier Scout Rifle mods are available. tags:god-pve,pve,mnk
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973
 dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973
 dimwishlist:item=3504336176&perks=1840239774,3142289711,247725512,3038247973
@@ -6520,12 +6997,7 @@ dimwishlist:item=3504336176&perks=1482024992,3230963543,247725512,3038247973
 
 
 // Night Watch - Night Watch (pve,mnk)
-//notes: A Scout Rifle that both feels and looks very good.
-Arrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice.
-Both Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed.
-Rapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun.
-Demolitionist is good for those of you who wish to spec into grenade builds while Multikill Clip and Rampage works well for extra damage. Though I'd personally go with Multikill Clip.
-Recommended MW: Range. tags:pve,mnk
+//notes: A Scout Rifle that both feels and looks very good. Arrowhead Brake is amazing on a lot of weapons and this is definitely one of them. Fluted Barrel would be my second choice. Both Accurized and Flared Magwell work well on this gun, but feel free to opt into Appended or Tactical mag if you wish to as you're getting a lot of Reload Speed from Rapid Hit and extra Range isn't really needed. Rapid Hit is such an amazing perk for Scout Rifles I don't see any reason to not want it on this gun. Demolitionist is good for those of you who wish to spec into grenade builds while Multikill Clip and Rampage works well for extra damage. Though I'd personally go with Multikill Clip. Recommended MW: Range. tags:pve,mnk
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3523296417
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,2458213969
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3425386926
@@ -6589,11 +7061,7 @@ dimwishlist:item=3504336176&perks=3250034553,1087426260,247725512,3425386926
 
 
 // Coriolis Force - Coriolis Force (god-pve,pve,mnk)
-//notes: The only Aggressive Fusion Rifle we have right now and Coriolis Force is very solid for DPS situations.
-
-Arrowhead Brake and Fluted would be my go to Barrels, with Enhanced Battery and Liquid Coils being my Batteries of choice.
-Under Pressure and Pulse Monitor are both very good for DPS situations and Rangefinder helps you get some extra Range so you avoid hitting Damage drop-off as easily.
-Recommended MW: Handling or Stability. tags:god-pve,pve,mnk
+//notes: The only Aggressive Fusion Rifle we have right now and Coriolis Force is very solid for DPS situations. Arrowhead Brake and Fluted would be my go to Barrels, with Enhanced Battery and Liquid Coils being my Batteries of choice. Under Pressure and Pulse Monitor are both very good for DPS situations and Rangefinder helps you get some extra Range so you avoid hitting Damage drop-off as easily. Recommended MW: Handling or Stability. tags:god-pve,pve,mnk
 dimwishlist:item=3512349612&perks=839105230,1687452232,972757866,2846385770
 dimwishlist:item=3512349612&perks=839105230,1687452232,1645158859,2846385770
 dimwishlist:item=3512349612&perks=839105230,2680121939,972757866,2846385770
@@ -6748,13 +7216,7 @@ dimwishlist:item=3514144928&perks=3250034553,1885400500,3643424744,3425386926
 
 
 // First In, Last Out - First In, Last Out (god-pve,pve,mnk)
-//notes: Solid DPS Slug Shotgun.
-
-Arrowhead Brake or Fluted is the go to barrels here, but for DPS it's mostly the last 2 perks you're looking for.
-Assault Mag is a marginal DPS increase, but other mag options are just as fine.
-Auto-Loading and Vorpal is the main perks you want here for DPS situations where Slugs shine.
-This Shotgun can also be used in non DPS situations of course, but this is the primary use case of it.
-Recommended MW: Handling or Range. tags:god-pve,pve,mnk
+//notes: Solid DPS Slug Shotgun. Arrowhead Brake or Fluted is the go to barrels here, but for DPS it's mostly the last 2 perks you're looking for. Assault Mag is a marginal DPS increase, but other mag options are just as fine. Auto-Loading and Vorpal is the main perks you want here for DPS situations where Slugs shine. This Shotgun can also be used in non DPS situations of course, but this is the primary use case of it. Recommended MW: Handling or Range. tags:god-pve,pve,mnk
 dimwishlist:item=3616586446&perks=839105230,791862061,3300816228,1546637391
 dimwishlist:item=3616586446&perks=839105230,106909392,3300816228,1546637391
 dimwishlist:item=3616586446&perks=839105230,1087426260,3300816228,1546637391
@@ -6945,13 +7407,7 @@ dimwishlist:item=3849810018&perks=981914802,3301904089,1428297954,11612903
 
 
 // Father's Sins - Father's Sins (god-pve,pve,mnk)
-//notes: The Rapid Fire Sniper to replace Ikelos. Being craftable is a huge benefit here as you're no longer relying on RNG.
-I mostly see this as a DPS Sniper in PvE as it doesn't really offer anything else.
-
-Arrowhead Brake or Fluted are your best options here.
-Tactical Mag allows you to hit 7 in the mag and gives Reload Speed.
-Triple Tap and Focused Fury has good synergy and gives you both ammo economy and higher damage than what Ikelos used to.
-Recommended MW: Range. tags:god-pve,pve,mnk
+//notes: The Rapid Fire Sniper to replace Ikelos. Being craftable is a huge benefit here as you're no longer relying on RNG. I mostly see this as a DPS Sniper in PvE as it doesn't really offer anything else. Arrowhead Brake or Fluted are your best options here. Tactical Mag allows you to hit 7 in the mag and gives Reload Speed. Triple Tap and Focused Fury has good synergy and gives you both ammo economy and higher damage than what Ikelos used to. Recommended MW: Range. tags:god-pve,pve,mnk
 dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2896038713
 dimwishlist:item=3865728990&perks=839105230,106909392,3400784728,2402480669
 dimwishlist:item=3865728990&perks=839105230,106909392,573122728,2896038713
@@ -7551,9 +8007,102 @@ dimwishlist:item=4067556514&perks=3250034553,1087426260,2682205016,395388285
 
 
 // Accrued Redemption - Accrued Redemption (god-pve,pve,mnk)
-//notes: Can roll the old reliable combination of Archer's Tempo + Explosive head in the Kinetic slot as a Precision Bow which makes it a solid choice.
-Recommended MW: Draw Time tags:god-pve,pve,mnk
+//notes: Can roll the old reliable combination of Archer's Tempo + Explosive head in the Kinetic slot as a Precision Bow which makes it a solid choice. Recommended MW: Draw Time tags:god-pve,pve,mnk
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133
+
+
+// Snorri FR5 - Snorri FR5 (god-pve,pve,mnk)
+//notes: A good Fusion Rifle overall. Arrowhead Brake is very nice for more predictable recoil direction, but Fluted Barrel is also solid. You can opt for Enhanced Battery, Accelerated Coils or Liquid Coils. I would honestly say it's down to preference what you'd like as they're all good options. Stats For All is a perk that gives you a lot in terms of stats and has good synergy with perks like Reservoir Burst, One For All and Successful Warm-Up.Surplus is nice if Stats For All is not an option. Compulsive Reloader can be nice if you wish to just chain Reservoir Burst shots, but I think the Omolon Origin Trait already gives you enough reload speed that you can opt into something else. Reservoir Burst is a really nice option for ad clear, with One For All also being a solid option for this. Successful Warm-Up allows you to get really low with the Charge Time if you wish to basically just spray down the opposition. Recommended MW: Handling or Stability. tags:god-pve,pve,mnk
+dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=839105230,2680121939,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=839105230,2680121939,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=839105230,2680121939,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=839105230,2680121939,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=839105230,689005463,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=839105230,689005463,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=839105230,689005463,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=839105230,689005463,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=839105230,689005463,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=839105230,689005463,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=839105230,1687452232,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=839105230,1687452232,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=839105230,1687452232,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=839105230,1687452232,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=839105230,1687452232,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=839105230,1687452232,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1840239774,2680121939,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1840239774,2680121939,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1840239774,2680121939,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1840239774,2680121939,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1840239774,2680121939,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1840239774,2680121939,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1840239774,689005463,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1840239774,689005463,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1840239774,689005463,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1840239774,689005463,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1840239774,689005463,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1840239774,689005463,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1840239774,1687452232,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1840239774,1687452232,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1840239774,1687452232,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1840239774,1687452232,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1840239774,1687452232,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1840239774,1687452232,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=4090651448,2680121939,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=4090651448,2680121939,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=4090651448,2680121939,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=4090651448,2680121939,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=4090651448,2680121939,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=4090651448,2680121939,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=4090651448,689005463,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=4090651448,689005463,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=4090651448,689005463,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=4090651448,689005463,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=4090651448,689005463,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=4090651448,689005463,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=4090651448,1687452232,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=4090651448,1687452232,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=4090651448,1687452232,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=4090651448,1687452232,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=4090651448,1687452232,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=4090651448,1687452232,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1482024992,2680121939,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1482024992,2680121939,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1482024992,2680121939,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1482024992,2680121939,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1482024992,2680121939,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1482024992,2680121939,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1482024992,689005463,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1482024992,689005463,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1482024992,689005463,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1482024992,689005463,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1482024992,689005463,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1482024992,689005463,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1482024992,1687452232,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1482024992,1687452232,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1482024992,1687452232,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=1482024992,1687452232,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=1482024992,1687452232,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=1482024992,1687452232,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=3250034553,2680121939,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=3250034553,2680121939,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=3250034553,2680121939,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=3250034553,2680121939,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=3250034553,2680121939,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=3250034553,2680121939,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=3250034553,689005463,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=3250034553,689005463,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=3250034553,689005463,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=3250034553,689005463,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=3250034553,689005463,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=3250034553,689005463,3436462433,2652708987,2839173408
+dimwishlist:item=4114929480&perks=3250034553,1687452232,1583705720,1427256713,2839173408
+dimwishlist:item=4114929480&perks=3250034553,1687452232,1583705720,4049631843,2839173408
+dimwishlist:item=4114929480&perks=3250034553,1687452232,1583705720,2652708987,2839173408
+dimwishlist:item=4114929480&perks=3250034553,1687452232,3436462433,1427256713,2839173408
+dimwishlist:item=4114929480&perks=3250034553,1687452232,3436462433,4049631843,2839173408
+dimwishlist:item=4114929480&perks=3250034553,1687452232,3436462433,2652708987,2839173408
 
 
 // The Third Axiom - The Third Axiom ()
@@ -7801,9 +8350,7 @@ dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3927722942
 
 
 // Empty Vessel - Empty Vessel (god-pve,pve,mnk)
-//notes: Did you know that Danger Zone increases the range of Blinding Grenades by 3 meters when procced?
-Very good roll, use Quick Launch if you have it combined with Auto-Loading. If you don't end up liking Danger Zone feel free to opt for something else.
-Recommended MW: Velocity tags:god-pve,pve,mnk
+//notes: Did you know that Danger Zone increases the range of Blinding Grenades by 3 meters when procced? Very good roll, use Quick Launch if you have it combined with Auto-Loading. If you don't end up liking Danger Zone feel free to opt for something else. Recommended MW: Velocity tags:god-pve,pve,mnk
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,960810156
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2869569095,960810156
 dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,960810156
@@ -7815,10 +8362,7 @@ dimwishlist:item=4255586669&perks=3798852852,3032599245,2869569095,960810156
 
 
 // Empty Vessel - Empty Vessel (pve,mnk)
-//notes: When using Blinding Grenades your barrel does not really matter that much, but I would avoid barrels that are a detriment to your weapons stats. Quick Launch would be my go to though as Velocity and Handling is very nice for when you're utilizing Blinding Grenades.
-While Auto-Loading would be my go to, Field Prep isn't a bad option either. Though it requires you to manually reload which makes it less desirable in my opinion.
-Vorpal is not a bad option if you want some extra damage on your Blinding Grenades, though this isn't what you're ideally using them for so having Demolitionist where you can have another shot on demand in case of emergency is nice and Disruption Break can be neat for higher end content where there's Match Game and Solar Shields.
-Recommended MW: Velocity tags:pve,mnk
+//notes: When using Blinding Grenades your barrel does not really matter that much, but I would avoid barrels that are a detriment to your weapons stats. Quick Launch would be my go to though as Velocity and Handling is very nice for when you're utilizing Blinding Grenades. While Auto-Loading would be my go to, Field Prep isn't a bad option either. Though it requires you to manually reload which makes it less desirable in my opinion. Vorpal is not a bad option if you want some extra damage on your Blinding Grenades, though this isn't what you're ideally using them for so having Demolitionist where you can have another shot on demand in case of emergency is nice and Disruption Break can be neat for higher end content where there's Match Game and Solar Shields. Recommended MW: Velocity tags:pve,mnk
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,3523296417
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515
@@ -7852,11 +8396,7 @@ dimwishlist:item=4255586669&perks=3809316345,3032599245,2869569095,1683379515
 
 
 // Empty Vessel - Empty Vessel (pve,mnk)
-//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.
-Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.
-Ambitious Assassin feels very good on Special GL's and Empty Vessel is no exception. Feeding Frenzy is nice if you're intending to chain kills.
-Vorpal and Multikill Clip are both good damage options, Vorpal is a good source of passive bonus damage on Majors and Bosses while Multikill Clip rewards chaining kills has a higher damage buff, but requires to be procced.
-Recommended MW: Velocity or Reload Speed. tags:pve,mnk
+//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage. Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here. Ambitious Assassin feels very good on Special GL's and Empty Vessel is no exception. Feeding Frenzy is nice if you're intending to chain kills. Vorpal and Multikill Clip are both good damage options, Vorpal is a good source of passive bonus damage on Majors and Bosses while Multikill Clip rewards chaining kills has a higher damage buff, but requires to be procced. Recommended MW: Velocity or Reload Speed. tags:pve,mnk
 dimwishlist:item=4255586669&perks=981914802,3301904089,2010801679,1546637391
 dimwishlist:item=4255586669&perks=981914802,3301904089,2010801679,2458213969
 dimwishlist:item=4255586669&perks=981914802,3301904089,2010801679,3523296417
@@ -7884,10 +8424,7 @@ dimwishlist:item=4255586669&perks=3809316345,3301904089,2779035018,3523296417
 
 
 // Empty Vessel - Empty Vessel (pve,mnk)
-//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage.
-Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here.
-Auto-Loading is a perk that rewards swapping weapons so is best utilized with a passive damage perk like Vorpal or if you're speccing into a grenade build it can also supplement Demolitionist.
-Recommended MW: Velocity. tags:pve,mnk
+//notes: With Spike Grenades you want to have as low Blast Radius as possible as it negatively affects your damage. Hard Launch is therefore your best option, but the other barrels that doesn't increase your Blast Radius are also fine. Quick Launch is my 2nd pick here. Auto-Loading is a perk that rewards swapping weapons so is best utilized with a passive damage perk like Vorpal or if you're speccing into a grenade build it can also supplement Demolitionist. Recommended MW: Velocity. tags:pve,mnk
 dimwishlist:item=4255586669&perks=981914802,3301904089,3300816228,1546637391
 dimwishlist:item=4255586669&perks=981914802,3301904089,3300816228,3523296417
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1546637391
@@ -7896,3 +8433,5 @@ dimwishlist:item=4255586669&perks=3798852852,3301904089,3300816228,1546637391
 dimwishlist:item=4255586669&perks=3798852852,3301904089,3300816228,3523296417
 dimwishlist:item=4255586669&perks=3809316345,3301904089,3300816228,1546637391
 dimwishlist:item=4255586669&perks=3809316345,3301904089,3300816228,3523296417
+
+
