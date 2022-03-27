@@ -6,14 +6,24 @@
 const fs = require('fs');
 const cloneDeep = require('lodash.clonedeep');
 
-const nameMap = require("../maps/name-map.json");
 const adeptMap = require("../maps/adept-map.json");
+const combinePerks = require('./combinePerks');
+const nameMap = require("../maps/name-map.json");
 
 const noNameList = [];
 
+const tagMap = {
+  Controller: 'controller',
+  GodPVE: 'god-pve',
+  GodPVP: 'god-pvp',
+  Mouse: 'mnk',
+  PVE: 'pve',
+  PVP: 'pvp',
+}
+
 
 function addName(roll) {
-  const { hash } = roll;
+  const { hash, description } = roll;
   const name = nameMap[hash];
 
   if (name) {
@@ -27,8 +37,10 @@ function addName(roll) {
   // remove returns from description
   // filters out "empty" extra returns
   // trims white space around each phrase
-  // glues back together with a spac
-  roll.description = roll.description.split("\n").filter(x => x).map(str => str.trim()).join(' ');
+  // glues back together with a space
+  if (description) {
+    roll.description = `[Hama] ${description.split("\n").filter(x => x).map(str => str.trim()).join(' ')}`;
+  }
 
   return roll;
 }
@@ -76,7 +88,7 @@ function addAdeptRolls(rolls) {
 
 
 function createDimList(wishlist) {
-  const fileName = "log.txt"
+  const fileName = "hama-rolls.txt"
 
   fs.unlink(fileName, function (err) {
     if (err && err.code == 'ENOENT') {
@@ -97,16 +109,37 @@ function createDimList(wishlist) {
   const lineBreak = () => file.write(`\n\n`);
 
   // add title and description
-  const { name, data, description } = wishlist;
-  writeLine(`title:${name}`)
-  writeLine(`description:${description}`)
+  const { name: listName, data: rolls, description: listDescription } = wishlist;
+  writeLine(`title:${listName}`);
+  writeLine(`description:${listDescription}`);
+  lineBreak();
 
-  lineBreak()
-  writeLine('test1')
-  lineBreak()
-  lineBreak()
-  writeLine('test2')
-  writeLine('test3')
+  // output like:
+  // // <name> - (<tags>)
+  // //notes: <description> <tags>
+  // dimwishlist:item=20935540&perks=839105230,3142289711,1168162263,1546637391
+  rolls.forEach(roll => {
+    const { description, hash, name, plugs, tags } = roll;
+
+    let note = description;
+
+    let tagString = '';
+    if (tags.length) {
+      tagString = tags.map(tag => tagMap[tag] || tag).join(', ');
+      if (!note.endsWith('.')) note = `${note}.`
+      note = `${note} tags: ${tagString}`
+    }
+
+    writeLine(`// ${name} - (${tagString})`);
+
+    if (description) writeLine(`//notes: ${note}`);
+
+    combinePerks(roll.plugs).forEach(perkSet => {
+      writeLine(`dimwishlist:item=${hash}&perks=${perkSet}`)
+    })
+
+    lineBreak();
+  });
 
   file.end();
 }
@@ -141,7 +174,7 @@ function massageList() {
   fs.writeFileSync(`${process.cwd()}/lists/${sourceName}`, JSON.stringify(wishlist));
 
   // WIP: create dim wishlist
-  // createDimList(wishlist)
+  createDimList(wishlist)
 }
 
 massageList();
