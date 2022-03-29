@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
+    "node-dir": "^0.1.17",
     "npm": "^8.5.5"
   },
   "name": "wishlists",

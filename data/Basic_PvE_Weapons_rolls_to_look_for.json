@@ -295,83 +295,27 @@
       "plugs": [
         [
           839105230,
-          1840239774
-        ],
-        [
-          1687452232,
-          2680121939
-        ],
-        [
-          2284787283
-        ],
-        [
-          1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 1399243961,
-      "name": "Reeds Regret",
-      "plugs": [
-        [
-          839105230,
-          1840239774
-        ],
-        [
-          1687452232,
-          2680121939
-        ],
-        [
-          2284787283
-        ],
-        [
-          1771339417
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 1399243961,
-      "name": "Reeds Regret",
-      "plugs": [
-        [
-          839105230,
-          1840239774
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553,
+          1392496348,
+          3661387068,
+          1467527085
         ],
         [
           2680121939,
-          1687452232
+          1483536627,
+          1687452232,
+          689005463,
+          3868766766
         ],
         [
           3400784728
         ],
         [
+          1771339417,
           1546637391
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 1399243961,
-      "name": "Reeds Regret",
-      "plugs": [
-        [
-          839105230,
-          1840239774
-        ],
-        [
-          2680121939,
-          1687452232
-        ],
-        [
-          3400784728
-        ],
-        [
-          1771339417
         ]
       ],
       "tags": []
@@ -1808,7 +1752,10 @@
           1840239774,
           4090651448,
           3250034553,
-          1482024992
+          1482024992,
+          1392496348,
+          3661387068,
+          1467527085
         ],
         [
           1087426260,
@@ -3209,30 +3156,6 @@
       "tags": []
     },
     {
-      "description": "",
-      "hash": 1921159786,
-      "name": "Hezen Vengeance (Timelost)",
-      "plugs": [
-        [
-          1441682018,
-          3525010810
-        ],
-        [
-          2985827016,
-          3796465595
-        ],
-        [
-          951095735,
-          3643424744
-        ],
-        [
-          1546637391,
-          3927722942
-        ]
-      ],
-      "tags": []
-    },
-    {
       "description": "Not that many options for this one sadly. Arrowhead / Fluted are your go to choices and you can opt for either High Cal / Armor Piercing or Light Mag. For 3rd column there's only Surplus and Wellspring worth considering. Firefly is a fun perk and is better than the alternative which is Frenzy or Kill Clip. Recommended MW: Stability or Handling.",
       "hash": 690668916,
       "name": "Vision of Confluence (Timelost)",
@@ -3364,11 +3287,17 @@
       "name": "Hezen Vengeance (Timelost)",
       "plugs": [
         [
+          3525010810,
           1441682018,
-          3525010810
+          3798852852,
+          3809316345,
+          981914802
         ],
         [
-          3796465595
+          3796465595,
+          1996142143,
+          2822142346,
+          2985827016
         ],
         [
           3300816228
@@ -3413,53 +3342,31 @@
       "name": "Palmyra-B",
       "plugs": [
         [
-          1441682018,
           3525010810,
+          1441682018,
           3798852852,
-          3809316345
+          3809316345,
+          981914802,
+          1844523823
         ],
         [
           3796465595,
+          1996142143,
+          2822142346,
           2985827016
         ],
         [
-          2621346526,
-          2495011826,
-          2010801679,
-          3797647183
+          3528046508,
+          3300816228
         ],
         [
-          3927722942,
-          1167468626,
+          2275087323,
           3194351027,
-          2275087323
-        ]
-      ],
-      "tags": []
-    },
-    {
-      "description": "",
-      "hash": 3489657138,
-      "name": "Palmyra-B",
-      "plugs": [
-        [
-          1441682018,
-          3525010810,
-          3798852852,
-          3809316345
-        ],
-        [
-          3796465595
-        ],
-        [
-          3300816228,
-          3528046508
-        ],
-        [
-          3927722942,
           1167468626,
-          3194351027,
-          2275087323
+          3927722942
+        ],
+        [
+          1607056502
         ]
       ],
       "tags": []
@@ -3628,7 +3535,7 @@
       "tags": []
     },
     {
-      "description": "A craftable Raid LFR that I would highly recommend getting.\n\nArrowhead Brake is my recommendation here, but Fluted Barrel is also a good option.\nEnhanced Battery makes you hit 6 in the mag which is what you want when using Fourth Times the Charm, you do not want 7 in the mag as it increases the amount of shots needed to proc Focused Fury from 3 to 4.\nRecommended MW: Handling or Reload Speed.",
+      "description": "A craftable Raid LFR that I would highly recommend getting. Arrowhead Brake is my recommendation here, but Fluted Barrel is also a good option. Enhanced Battery makes you hit 6 in the mag which is what you want when using Fourth Times the Charm, you do not want 7 in the mag as it increases the amount of shots needed to proc Focused Fury from 3 to 4. Recommended MW: Handling or Reload Speed.",
       "hash": 999767358,
       "name": "Cataclysmic",
       "plugs": [
@@ -3637,18 +3544,24 @@
           1840239774,
           4090651448,
           1482024992,
-          3250034553
+          3250034553,
+          1392496348,
+          3661387068,
+          1467527085
         ],
         [
           2680121939
         ],
         [
-          1354429876,
-          848860060
+          848860060,
+          1354429876
         ],
         [
-          2896038713,
-          2402480669
+          2402480669,
+          2896038713
+        ],
+        [
+          3363267119
         ]
       ],
       "tags": [
@@ -4118,7 +4031,7 @@
       ]
     },
     {
-      "description": "A solid aggressive SMG from when Warmind Cells used to be meta.\nThe SMG already has pretty high Handling so I prefer to go for Hammerforged here to try and get some extra Range, with Smallbore being a solid second option.\nSeraph Rounds give a bonus to Zoom, so this is the best option by far in terms of Mag, but you can opt into Accurized Rounds or Flared Magwell if you didn't end up with Seraph.\nSubsistence is a solid perk, but you can also opt into Pulse Monitor or Threat Detector if you prefer that.\nVorpal is going to be your go to damage perk, while Demolitionist is there if you wish to spec into grenade builds. Disruption Break also exists as an alternative if you're mainly using it to bust Arc Shields then swapping weapons.\nRecommended MW: Range or Reload Speed.",
+      "description": "A solid aggressive SMG with relatively high base Handling, I would prefer Hammerforged here for extra Range or Smallbore as a solid second option. Seraph Rounds provides bonus zoom making it the best option in terms of Mag, Accurized or Flared Magwell being viable alternatives. Subsistence, Threat Detector, or Pulse Monitor are all solid choices. Vorpal is the go to damage perk, while Demo is there for Nade builds. Disruption Break also exists for busting Arc Shields then swapping weapons. Recommended MW: Range or Reload Speed.",
       "hash": 2222560548,
       "name": "IKELOS_SMG_v1.0.2",
       "plugs": [
@@ -4364,6 +4277,107 @@
         "PVE",
         "Mouse"
       ]
+    },
+    {
+      "description": "",
+      "hash": 1921159786,
+      "name": "Hezen Vengeance (Timelost)",
+      "plugs": [
+        [
+          3525010810,
+          1441682018,
+          3798852852,
+          3809316345,
+          981914802
+        ],
+        [
+          2985827016,
+          3796465595,
+          1996142143,
+          2822142346
+        ],
+        [
+          951095735,
+          3643424744
+        ],
+        [
+          1546637391,
+          3927722942
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 3489657138,
+      "name": "Palmyra-B",
+      "plugs": [
+        [
+          3525010810,
+          1441682018,
+          3798852852,
+          3809316345,
+          981914802,
+          1844523823
+        ],
+        [
+          3796465595,
+          2985827016,
+          1996142143,
+          2822142346
+        ],
+        [
+          2621346526,
+          2495011826,
+          2010801679,
+          3797647183
+        ],
+        [
+          3927722942,
+          1167468626,
+          3194351027,
+          2275087323
+        ],
+        [
+          1607056502
+        ]
+      ],
+      "tags": []
+    },
+    {
+      "description": "",
+      "hash": 1399243961,
+      "name": "Reeds Regret",
+      "plugs": [
+        [
+          839105230,
+          1840239774,
+          4090651448,
+          1482024992,
+          3250034553,
+          1392496348,
+          3661387068,
+          1467527085
+        ],
+        [
+          2680121939,
+          1483536627,
+          1687452232,
+          689005463,
+          3868766766
+        ],
+        [
+          2284787283
+        ],
+        [
+          1771339417,
+          1546637391
+        ],
+        [
+          3988215619
+        ]
+      ],
+      "tags": []
     }
   ]
 }

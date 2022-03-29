@@ -4,7 +4,9 @@
 // for some script basics and file system references
 // https://devdojo.com/bo-iliev/how-to-write-your-first-nodejs-script
 const fs = require('fs');
+const path = require('path');
 const cloneDeep = require('lodash.clonedeep');
+const dir = require('node-dir');
 
 const adeptMap = require("../maps/adept-map.json");
 const combinePerks = require('./combinePerks');
@@ -20,6 +22,58 @@ const tagMap = {
   PVE: 'pve',
   PVP: 'pvp',
 }
+
+const CWD = process.cwd();
+
+
+
+// //joining path of directory
+// const directoryPath = path.join(__dirname, 'Documents');
+
+// //passsing directoryPath and callback function
+// fs.readdir(directoryPath, function (err, files) {
+//     //handling error
+//     if (err) {
+//         return console.log('Unable to scan directory: ' + err);
+//     }
+//     //listing all files using forEach
+//     files.forEach(function (file) {
+//         // Do whatever you want to do with the file
+//         console.log(file);
+//     });
+// });
+
+function collectData() {
+  const dataPath = path.join(CWD, 'data');
+
+  let rolls = [];
+
+  // dir.readFiles(dataPath, { match: /.json$/, recursive: false }, function (err, content, fileName, next) {
+  //     if (err) {
+  //       console.log(err);
+  //     } else {
+  //       wishlist = JSON.parse(fs.readFileSync(fileName));
+  //       rolls = rolls.concat(wishlist.data);
+  //       console.log(`Added rolls from ${fileName}. Rolls: ${rolls.length}`)
+  //       next()
+  //     }
+  //   }
+  // );
+
+  var files = dir.files(dataPath, { sync:true });
+  files.filter(fileName => fileName.endsWith('.json')).forEach((fileName) => {
+    wishlist = JSON.parse(fs.readFileSync(fileName));
+    rolls = rolls.concat(wishlist.data);
+    console.log(`Added rolls from ${fileName}. Rolls: ${rolls.length}`)
+  })
+
+  // console.log({ collectDataFiles: files })
+
+  return rolls;
+}
+
+// collectData()
+
 
 
 function addName(roll) {
@@ -41,6 +95,11 @@ function addName(roll) {
   if (description) {
     roll.description = `[Hama] ${description.split("\n").filter(x => x).map(str => str.trim()).join(' ')}`;
   }
+  else {
+    roll.description = "[Hama]";
+  }
+
+
 
   return roll;
 }
@@ -145,36 +204,53 @@ function createDimList(wishlist) {
 }
 
 
+function sortRolls(a, b) {
+  if (a.name === b.name){
+    return a.hash < b.hash ? -1 : 1
+  } else {
+    return a.name < b.name ? -1 : 1
+  }
+}
+
+
 function massageList() {
   const args = process.argv.slice(2)
   let name = args[0];
 
   const sourceName = name.endsWith('.json') ? name : `${name}.json`
 
-  let wishlist;
+  // let wishlist;
 
-  try {
-    const fileName = `${process.cwd()}/data/${sourceName}`;
-    console.log(`Converting "${fileName}" to DIM wishlist...`)
-    wishlist = JSON.parse(fs.readFileSync(fileName));
-  }
-  catch (e) {
-    console.log(e)
-  }
+  // try {
+  //   const fileName = path.join(CWD, 'data', sourceName);
+  //   console.log(`Converting "${fileName}" to DIM wishlist...`)
+  //   wishlist = JSON.parse(fs.readFileSync(fileName));
+  // }
+  // catch (e) {
+  //   console.log(e)
+  // }
+  let data = collectData();
 
   // add mapped names and known adepts to wishlist data
-  const { data } = wishlist;
-  wishlist.data = addAdeptRolls(addNamesToRolls(data));
+  // const { data } = wishlist;
+  // wishlist.data = addAdeptRolls(addNamesToRolls(data));
+  data = addAdeptRolls(addNamesToRolls(data));
+
+  // sort rolls by name, fallback on hash
+  data = data.sort(sortRolls);
 
   // rename the list according to the original name
   const listName = name.replace('.json', '');
-  wishlist.name = listName;
+  // wishlist.name = listName;
+  const wishlist = { name: listName, description: 'hama-rolls', data }
 
   // write out the updated little light list
-  fs.writeFileSync(`${process.cwd()}/lists/${sourceName}`, JSON.stringify(wishlist));
+  const outputFilename = path.join(CWD, 'lists', sourceName);
+  fs.writeFileSync(outputFilename, JSON.stringify(wishlist));
 
   // WIP: create dim wishlist
   createDimList(wishlist)
 }
 
+// call like: node .\scripts\convert.js "Basic_PvE_Weapons_2022.03.26"
 massageList();
