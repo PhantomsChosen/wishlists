@@ -13,6 +13,8 @@ const combinePerks = require('./combinePerks');
 const nameMap = require("../maps/name-map.json");
 
 const noNameList = [];
+const noDescription = {};
+const noTags = {};
 
 const tagMap = {
   Controller: 'controller',
@@ -30,7 +32,7 @@ function collectData() {
 
   let rolls = [];
 
-  var files = dir.files(dataPath, { sync:true });
+  var files = dir.files(dataPath, { sync: true });
   files.filter(fileName => fileName.endsWith('.json')).forEach((fileName) => {
     wishlist = JSON.parse(fs.readFileSync(fileName));
     rolls = rolls.concat(wishlist.data);
@@ -61,12 +63,20 @@ function addName(roll) {
     roll.description = `[Hama] ${description.split("\n").filter(x => x).map(str => str.trim()).join(' ')}`;
   }
   else {
+    incrementCount(noDescription, name || hash);
     roll.description = "[Hama Approved]";
   }
 
-
-
   return roll;
+}
+
+function incrementCount(tracker, name) {
+  if (tracker[name]) {
+    tracker[name] += 1
+  }
+  else {
+    tracker[name] = 1
+  }
 }
 
 
@@ -151,6 +161,9 @@ function createDimList(wishlist) {
       if (!note.endsWith('.')) note = `${note}.`
       note = `${note} tags: ${tagString}`
     }
+    else {
+      incrementCount(noTags, name || hash);
+    }
 
     writeLine(`// ${name} - (${tagString})`);
 
@@ -168,7 +181,7 @@ function createDimList(wishlist) {
 
 
 function sortRolls(a, b) {
-  if (a.name === b.name){
+  if (a.name === b.name) {
     return a.hash < b.hash ? -1 : 1
   } else {
     return a.name < b.name ? -1 : 1
@@ -192,14 +205,23 @@ function massageList() {
 
   // rename the list according to the original name
   const listName = name.replace('.json', '');
-  const wishlist = { name: listName, description: 'hama-rolls', data }
+  const wishlist = { name: listName, description: 'hama-rolls', data };
+
+  // log out names of things missing description/tags
+  if (Object.keys(noDescription).length) {
+    console.log('missing description:', noDescription);
+  }
+
+  if (Object.keys(noTags).length) {
+    console.log('missing tags:', noTags);
+  }
 
   // write out the updated little light list
   const outputFilename = path.join(CWD, 'lists', sourceName);
   fs.writeFileSync(outputFilename, JSON.stringify(wishlist));
 
   // WIP: create dim wishlist
-  createDimList(wishlist)
+  createDimList(wishlist);
 }
 
 // call like: node .\scripts\convert.js "Basic_PvE_Weapons_2022.03.26"
