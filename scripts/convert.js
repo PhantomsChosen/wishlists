@@ -188,6 +188,23 @@ function sortRolls(a, b) {
   }
 }
 
+function orderObject(unordered) {
+  return Object.keys(unordered).sort().reduce(
+    (obj, key) => {
+      obj[key] = unordered[key];
+      return obj;
+    },
+    {}
+  );
+}
+
+
+function nowAsFilename() {
+  const now = new Date();
+  let str = now.toISOString().replaceAll('-', '.').replaceAll(':', '.');
+  return str;
+}
+
 
 function massageList() {
   const args = process.argv.slice(2)
@@ -204,16 +221,16 @@ function massageList() {
   data = data.sort(sortRolls);
 
   // rename the list according to the original name
-  const listName = name.replace('.json', '');
+  const listName = `${name.replace('.json', '')}_${nowAsFilename()}`
   const wishlist = { name: listName, description: 'hama-rolls', data };
 
   // log out names of things missing description/tags
   if (Object.keys(noDescription).length) {
-    console.log('missing description:', noDescription);
+    console.log('missing description:', JSON.stringify(orderObject(noDescription)));
   }
 
   if (Object.keys(noTags).length) {
-    console.log('missing tags:', noTags);
+    console.log('missing tags:', JSON.stringify(orderObject(noTags)));
   }
 
   // write out the updated little light list
