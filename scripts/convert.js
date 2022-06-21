@@ -221,8 +221,9 @@ function massageList() {
   data = data.sort(sortRolls);
 
   // rename the list according to the original name
-  const listName = `${name.replace('.json', '')}_${nowAsFilename()}`
-  const wishlist = { name: listName, description: 'hama-rolls', data };
+  const listName = `${name.replace('.json', '')}_${nowAsFilename()}`;
+  const description = "Made by Hama, assisted by Meteor w/ technical stuff";
+  const wishlist = { name: listName, description, data };
 
   // log out names of things missing description/tags
   if (Object.keys(noDescription).length) {
