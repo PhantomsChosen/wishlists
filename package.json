@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "comment-json": "^4.2.3",
     "lodash.clonedeep": "^4.5.0",
     "node-dir": "^0.1.17",
     "npm": "^8.5.5"

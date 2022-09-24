@@ -1,0 +1,16 @@
+// mapped like
+// "normal-id": adept-id
+{
+  // Corrective Measure (Timelost) 3796510434 --> 471518543
+  "471518543": 3796510434,
+  // Fatebringer (Timelost) 1216319404 --> 2171478765
+  "2171478765": 1216319404,
+  // Found Verdict (Timelost) 631439337 --> 3197270240
+  "3197270240": 631439337,
+  // Hezen Vengeance (Timelost) 1921159786 --> 4050645223
+  "4050645223": 1921159786,
+  // Praedyth's Revenge (Timelost) 1987769101 --> 3653573172
+  "3653573172": 1987769101,
+  // Vision of Confluence (Timelost) 690668916 --> 3186018373
+  "3186018373": 690668916
+}

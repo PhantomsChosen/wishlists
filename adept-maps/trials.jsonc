@@ -1,0 +1,48 @@
+// mapped like
+// "normal-id": adept-id
+{
+  // Aisha's Embrace (Adept) 3245493570
+  // Aisha's Embrace 2638190703
+  "2638190703": 3245493570,
+  // Astral Horizon (Adept) 532746994
+  // Astral Horizon 1697682876
+  "1697682876": 532746994,
+  // Exile's Curse (Adept) 276080079
+  // Exile's Curse 679281855
+  "679281855": 276080079,
+  // Eye of Sol (Adept) 3637570176
+  // Eye of Sol 3164743584
+  "3164743584": 3637570176,
+  // Igneous Hammer (Adept) 2527666306
+  // Igneous Hammer 2351180975
+  "2351180975": 2527666306,
+  // Shayura's Wrath (Adept) 4023807721
+  // Shayura's Wrath 3682803680
+  "3682803680": 4023807721,
+  // Sola's Scar (Adept) 3847137620
+  // Sola's Scar 1313528549
+  "1313528549": 3847137620,
+  // The Messenger (Adept) 1173780905
+  // The Messenger 3658188704
+  "3658188704": 1173780905,
+  // The Scholar (Adept) 2386979999
+  // The Scholar 2478792241
+  "2478792241": 2386979999,
+  // Tomorrow's Answer (Adept) 1366917989
+  // Tomorrow's Answer 958384347
+  "958384347": 1366917989,
+  // Reed's Regret (Adept) 2475355656
+  // Reed's Regret 1399243961
+  "1399243961": 2475355656,
+  // The Summoner (Adept) 3514144928
+  // The Summoner 1907698332
+  "1907698332": 3514144928,
+  // Burden of Guilt (Adept) 2002522739 --> 933455006
+  "933455006": 2002522739,
+  // Forgiveness (Adept) 2405619467 --> 2345794502
+  "2345794502": 2405619467,
+  // The Inquisitor (Adept) 2307365 --> 2185327324
+  "2185327324": 2307365,
+  // Whistler's Whim (Adept) 711889599 --> 1574601402
+  "1574601402": 711889599
+}

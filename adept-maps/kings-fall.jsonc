@@ -1,0 +1,16 @@
+// mapped like
+// "normal-id": adept-id
+{
+  // Defiance of Yasmin (Harrowed) 3503019618 --> 3228096719
+  "3228096719": 3503019618,
+  // Doom of Chelchis (Harrowed) 1184692845 --> 1937552980
+  "1937552980": 1184692845,
+  // Midha's Reckoning (Harrowed) 3904516037 --> 3969066556
+  "3969066556": 3904516037,
+  // Qullim's Terminus (Harrowed) 3248429089 --> 1321506184
+  "1321506184": 3248429089,
+  // Smite of Merain (Harrowed) 3407395594 --> 2221264583
+  "2221264583": 3407395594,
+  // Zaouli's Bane (Harrowed) 291092617 --> 431721920
+  "431721920": 291092617
+}
